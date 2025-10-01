@@ -1,22 +1,17 @@
 # Agile Vs Waterfall
-
-**Agile Vs Waterfall**
-
-**Project Approach & Philosophy**
-
 *   **Agile**
-    *   > [!TIP]
-        > Agile is an iterative and flexible approach.
-    *   Development is done in cycles (sprints).
-    *   Welcomes and expects changes in requirements.
-    *   Sees the project as a series of small, evolving steps.
+> [!TIP]
+> Agile is an iterative and flexible approach.
+*   Development is done in cycles (sprints).
+*   Welcomes and expects changes in requirements.
+*   Sees the project as a series of small, evolving steps.
 
 *   **Waterfall**
-    *   > [!NOTE]
-        > Waterfall is a linear and sequential approach.
-    *   Development flows downward through phases, like a waterfall.
-    *   Requires fixed, detailed requirements at the start.
-    *   Sees the project as one single, monolithic process.
+>  [!NOTE]
+>  Waterfall is a linear and sequential approach.
+*   Development flows downward through phases, like a waterfall.
+*   Requires fixed, detailed requirements at the start.
+*   Sees the project as one single, monolithic process.
 
 **Process & Phases**
 
@@ -26,8 +21,8 @@
     *   The project scope is flexible and defined sprint-by-sprint.
 
 *   **Waterfall Process**
-    *   > [!IMPORTANT]
-        > Phases are distinct and must be completed one after another.
+> [!IMPORTANT]
+> Phases are distinct and must be completed one after another.
     *   Sequential order: Requirements > Design > Implementation > Verification > Maintenance.
     *   You cannot easily go back to a previous phase.
 
@@ -83,3 +78,4 @@
   > Projects with clear, fixed, and well-understood requirements.
   > Projects with strict regulatory or compliance requirements.
   > Simple, short projects where the process is predictable.
+
