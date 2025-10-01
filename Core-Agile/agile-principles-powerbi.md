@@ -23,14 +23,14 @@
 *   **Sustainable Development Pace**
 > [!CAUTION]
 > Avoid "death by a thousand measures." Build a maintainable data model.
-    *   Create a clean, well-documented data model in small steps.
-    *   Use consistent naming conventions for tables and measures.
+*   Create a clean, well-documented data model in small steps.
+*   Use consistent naming conventions for tables and measures.
 
 *   **Working Software is the Primary Measure**
 > [!NOTE]
 > A published and refreshed Power BI report is your "working software."
-    *   Focus on delivering a refreshed dataset and a functional report.
-    *   This is more valuable than a complex project plan.
+*   Focus on delivering a refreshed dataset and a functional report.
+*   This is more valuable than a complex project plan.
 
 **Agile Frameworks in Power BI**
 
@@ -42,8 +42,8 @@
 *   **Kanban for Power BI**
 > [!TIP]
 > Use a Kanban board to manage ad-hoc requests and bug fixes.
-    *   Visualize your work: "To Do," "Data Modeling," "DAX & Visuals," "Testing," "Published."
-    *   Limit work-in-progress to avoid context switching.
+*   Visualize your work: "To Do," "Data Modeling," "DAX & Visuals," "Testing," "Published."
+*   Limit work-in-progress to avoid context switching.
 
 **Key Power BI Artifacts & Practices**
 
@@ -58,6 +58,7 @@
 *   **Continuous Attention to Technical Excellence**
 > [!IMPORTANT]
 > Good design enhances agility. A messy data model is hard to change.
-    *   Regularly refactor and optimize DAX calculations.
-    *   Review and improve data model relationships for performance.
+*   Regularly refactor and optimize DAX calculations.
+*   Review and improve data model relationships for performance.
+
 
