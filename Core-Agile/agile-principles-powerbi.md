@@ -16,8 +16,9 @@
 *   **Satisfy Users Through Early Delivery**
 > [!IMPORTANT]
 > A basic report with correct data is better than a perfect report that's late.
-    *   Start with a single page and a few key visuals.
-    *   Deploy it to the Power BI Service for user testing quickly.
+
+*   Start with a single page and a few key visuals.
+*   Deploy it to the Power BI Service for user testing quickly.
 
 *   **Sustainable Development Pace**
 > [!CAUTION]
@@ -59,3 +60,4 @@
 > Good design enhances agility. A messy data model is hard to change.
     *   Regularly refactor and optimize DAX calculations.
     *   Review and improve data model relationships for performance.
+
