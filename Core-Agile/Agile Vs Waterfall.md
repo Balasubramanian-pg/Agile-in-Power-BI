@@ -6,7 +6,7 @@
 *   Welcomes and expects changes in requirements.
 *   Sees the project as a series of small, evolving steps.
 
-*   **Waterfall**
+  **Waterfall**
 >  [!NOTE]
 >  Waterfall is a linear and sequential approach.
 *   Development flows downward through phases, like a waterfall.
@@ -23,22 +23,25 @@
 *   **Waterfall Process**
 > [!IMPORTANT]
 > Phases are distinct and must be completed one after another.
-    *   Sequential order: Requirements > Design > Implementation > Verification > Maintenance.
-    *   You cannot easily go back to a previous phase.
+
+*   Sequential order: Requirements > Design > Implementation > Verification > Maintenance.
+*   You cannot easily go back to a previous phase.
 
 **Handling Changes**
 
 *   **Agile and Change**
-    *   > [!TIP]
-        > Changes can be incorporated at the start of each new sprint.
-    *   Changes are considered a normal and valuable part of the process.
-    *   Adapting to change is a core competitive advantage.
+> [!TIP]
+> Changes can be incorporated at the start of each new sprint.
+
+*   Changes are considered a normal and valuable part of the process.
+*   Adapting to change is a core competitive advantage.
 
 *   **Waterfall and Change**
-    *   > [!CAUTION]
-        > Changes are very difficult and expensive to implement once a phase is complete.
-    *   Requires formal change control procedures and often renegotiation.
-    *   Making changes can derail the entire project plan and timeline.
+> [!CAUTION]
+> Changes are very difficult and expensive to implement once a phase is complete.
+
+*   Requires formal change control procedures and often renegotiation.
+*   Making changes can derail the entire project plan and timeline.
 
 **Customer Involvement**
 
@@ -78,4 +81,5 @@
   > Projects with clear, fixed, and well-understood requirements.
   > Projects with strict regulatory or compliance requirements.
   > Simple, short projects where the process is predictable.
+
 
