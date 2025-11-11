@@ -8,6 +8,7 @@
 *   Building and testing complex ETL/ELT processes is time-consuming.
 *   Data refresh failures in the Power BI Service can derail a sprint review.
 
+
 *   **Performance & Modeling Challenges**
 > [!NOTE]
 > A poorly performing model is hard to fix within a short sprint.
