@@ -26,7 +26,7 @@ The thirty topics you have encountered are not arbitrary. They are the necessary
 - Techniques for optimizing slow DAX measures  
 - Performance testing and monitoring frameworks for Power BI  
 
-> Note: While “Designing high-performance data models” appears in Data (due to structural impact), DAX and runtime optimization belong here.*
+> *Note: While “Designing high-performance data models” appears in Data (due to structural impact), DAX and runtime optimization belong here.*
 
 ### **3. Process**
 *(Focus: Agile practices, delivery workflows, stakeholder alignment, and quality control)*
