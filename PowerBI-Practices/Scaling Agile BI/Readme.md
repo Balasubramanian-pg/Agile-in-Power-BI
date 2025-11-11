@@ -81,5 +81,4 @@ They are trusting *you*.
 
 Do not betray that trust. Build as if lives depend on it—because in the life of an organization, they do.  
 
-—  
-*"Order is not the enemy of agility. Chaos is."*
+—  *"Order is not the enemy of agility. Chaos is."*
