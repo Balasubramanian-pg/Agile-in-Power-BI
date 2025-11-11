@@ -1,5 +1,5 @@
-# *README: The Foundations of Order in the Data Deluge*
-*—On Bottlenecks, Quality, and the Courage to Build Slowly Enough to Build Well*
+# *The Foundations of Order in the Data Deluge*
+* — On Bottlenecks, Quality, and the Courage to Build Slowly Enough to Build Well*
 
 You are not drowning in data. You are drowning in *disorder*. The files before you—on access bottlenecks, data quality, ETL, validation, performance, modularity, versioning, environments, and deployment governance—are not technical appendices. They are the first principles of *epistemological hygiene* in an age of information chaos.
 
