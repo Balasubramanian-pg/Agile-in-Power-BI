@@ -1,4 +1,4 @@
-# The Architecture of Order in Agile Business Intelligence**  
+# The Architecture of Order in Agile Business Intelligence
 *—A Chapter in the Discipline of Clarity*
 
 Before you lies not a mere checklist of technical concerns, nor a dry inventory of Power BI features—but a map of the battlefield where chaos meets competence in the pursuit of truth through data.
