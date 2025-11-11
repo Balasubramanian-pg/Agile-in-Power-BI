@@ -1,7 +1,3 @@
-Here’s a comprehensive set of study notes on **Managing Power BI Environments (Dev/Test/Prod)**, structured as requested:
-
----
-
 # Managing Power BI Environments (Dev/Test/Prod)
 
 ---
