@@ -1,6 +1,6 @@
 # Artifacts in Agile
 
-**Product Backlog**
+## Product Backlog
 > [!IMPORTANT]
 > The single, authoritative source for everything a product needs.
 *   A prioritized list of all desired work on the product.
@@ -24,7 +24,7 @@
 *   Must be in a usable condition, regardless of the Product Owner's decision to release it.
 *   The primary measure of progress.
 
-**Scrum-Specific Artifacts**
+## Scrum-Specific Artifacts
 
 **Definition of Done (DoD)**
 > [!CAUTION]
@@ -38,7 +38,7 @@
 *   The Product Backlog is the emerging plan to achieve the Product Goal.
 *   Gives the team long-term focus and direction.
 
-**Other Common Agile Artifacts**
+## Other Common Agile Artifacts
 
 **User Stories**
 > [!NOTE]
