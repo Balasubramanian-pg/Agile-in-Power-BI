@@ -31,7 +31,7 @@
 
 ### Extended Agile Roles
 
-*   **Stakeholders**
+### Stakeholders
 > [!NOTE]
 > Anyone with an interest in the project's outcome.
 *   Provides input and feedback.
@@ -39,7 +39,7 @@
 *   Attends sprint reviews and demos.
 *   Helps define requirements and priorities.
 
-*   **Agile Coach**
+### Agile Coach
 > [!TIP]
 > Works at organizational level to spread Agile adoption.
 *   Mentors multiple teams and Scrum Masters.
@@ -47,7 +47,7 @@
 *   Guides cultural transformation.
 *   More strategic than Scrum Master role.
 
-*   **Business Analyst (in Agile)**
+## Business Analyst (in Agile)
 *   Works closely with Product Owner.
 *   Helps refine user stories and requirements.
 *   Defines acceptance criteria.
@@ -55,21 +55,21 @@
 
 ### Team Structure Principles
 
-*   **Cross-Functional Teams**
+### Cross-Functional Teams
 > [!IMPORTANT]
 > Teams contain all skills needed to deliver working software.
 *   Includes developers, testers, designers, etc.
 *   Reduces dependencies on external teams.
 *   Enables faster delivery and higher quality.
 
-*   **Self-Organizing Teams**
+### Self-Organizing Teams
 > [!CAUTION]
 > Management assigns what to do, team decides how to do it.
 *   Teams determine their own work processes.
 *   Increases ownership and accountability.
 *   Leads to more innovative solutions.
 
-*   **Dedicated Team Members**
+### Dedicated Team Members
 *   Team members work full-time on one team.
 *   Prevents context switching and multitasking.
 *   Builds stronger team dynamics and trust.
