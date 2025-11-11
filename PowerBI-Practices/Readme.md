@@ -117,5 +117,4 @@ Make them clear. Make them honest. Make them worthy of the trust placed in them.
 
 Everything else is decoration.  
 
-—  
-*“Order is not the enemy of agility. Chaos is.”*
+—  *“Order is not the enemy of agility. Chaos is.”*
