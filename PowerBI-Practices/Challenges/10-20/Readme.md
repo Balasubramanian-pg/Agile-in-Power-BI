@@ -1,5 +1,5 @@
 # README: The Human Architecture of Truthful Systems
-*—On Boundaries, Clarity, and the Discipline of Shared Understanding*
+*— On Boundaries, Clarity, and the Discipline of Shared Understanding*
 
 You stand at the threshold where technology meets human judgment. The files before you—on access control, refresh reliability, stakeholder communication, team structure, coaching, and testing—are not merely procedural. They are the architecture of *trust*. And trust, in the realm of data, is the rarest and most essential commodity.
 
