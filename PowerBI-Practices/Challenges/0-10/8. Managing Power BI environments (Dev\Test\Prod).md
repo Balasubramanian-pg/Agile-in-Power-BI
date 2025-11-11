@@ -1,15 +1,11 @@
 # Managing Power BI Environments (Dev/Test/Prod)
 
----
-
 ## 1. Introduction
 - **Definition**: Managing Power BI environments involves maintaining separate, isolated **Development (Dev)**, **Testing (Test)**, and **Production (Prod)** environments to support the **Agile BI lifecycle**. This ensures safe development, thorough testing, and stable production deployments.
 - **Why It Matters**: Without environment separation, changes can break production reports, data can become inconsistent, and collaboration becomes risky. A structured approach reduces errors, improves quality, and accelerates delivery.
 
 > [!NOTE]
 > Environment management is critical for Agile BI, enabling iterative development, continuous testing, and reliable production releases.
-
----
 
 ## 2. Core Concepts of Power BI Environment Management
 
