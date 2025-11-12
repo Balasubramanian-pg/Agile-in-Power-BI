@@ -1,7 +1,5 @@
 # Ceremonies in Agile (Scrum)
 
-<img width="642" height="643" alt="image" src="https://github.com/user-attachments/assets/6f85071e-5a07-41bf-b9b1-630eb60a088f" />
-
 *   **Sprint Planning**
 > [!IMPORTANT]
 > The entire Scrum team collaborates to plan the work for the upcoming Sprint.
@@ -50,4 +48,5 @@
 *   **Ensure Transparency**
 *   Each ceremony makes progress, problems, and plans visible to everyone.
 *   They foster a culture of collective responsibility and shared understanding.
+
 
