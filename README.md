@@ -26,117 +26,142 @@ Agile-in-Power-BI/
         └── answers-for-those-who-prepare.md
 ```
 
-## **File Breakdown: Purpose and Tone**
-
-### **1. `README.md`**
-**Title:** *README: The Path to Mastery in Agile Power BI*
-**Tone:** *This is not just a repository. It is a system for those who treat data as a responsibility, not just a resource.*
-**Contents:**
-- The **why**: Agile + Power BI as a fusion of adaptability and structure.
-- How to **navigate the repository**: Each folder is a step toward mastery.
-- A **warning**: *“Speed without discipline is chaos. Use this framework to build both.”*
-
-### **2. `1-Core-Principles/`**
-#### **`the-agile-mindset.md`**
-**Opening Line:**
-> *Agile is not a methodology. It is a philosophy of confronting uncertainty with courage, iteration, and relentless focus on value.*
-
-**Structure:**
-- **Iterative Work**: The moral case for small, honest steps over grand, fragile plans.
-- **Incremental Delivery**: Why “done” is better than “perfect.”
-- **Collaboration as Duty**: Stakeholders are not obstacles; they are allies in the pursuit of truth.
-
-**Closing:**
-> *Agile does not tolerate cowardice. It demands you ship, reflect, and improve—or risk irrelevance.*
-
-#### **`agile-vs-waterfall-a-moral-choice.md`**
-**Opening Line:**
-> *Waterfall is the illusion of control. Agile is the acceptance of responsibility.*
-
-**Key Contrasts (Table):**
-
-Waterfall vs. Agile: A Choice of Values
+*Structured for mastery, not just memorization.*
 
 
-| **Waterfall**               | **Agile**                          |
-|-----------------------------|------------------------------------|
-| Plans over people           | People over processes             |
-| Documentation over action   | Working dashboards over documents |
-| Fear of change              | Embrace of reality                |
+## Repository Structure
+This repository is organized to **clarify, not complicate**. Each file is a **deliberate step** toward understanding how Agile principles **manifest in Power BI**—and how to articulate that understanding in interviews.
 
-**Closing:**
-> *Waterfall asks, “Did we follow the plan?” Agile asks, “Did we serve the user?” The latter is the only question that matters.*
 
-#### **`agile-in-power-bi-why-it-matters.md`**
-**Opening Line:**
-> *Power BI without Agile is a tool without a compass. Agile without Power BI is philosophy without proof.*
+Repository Structure
 
-**Core Ideas:**
-- **Prototyping as Honesty**: Dummy data reveals gaps in thinking.
-- **Feedback Loops as Humility**: Users will show you what you missed.
-- **KPIs as Promises**: Every metric is a commitment to truth.
-  
-### **3. `2-Scrum-Framework/`**
-#### **`roles-responsibility-and-trust.md`**
-**Opening Line:**
-> *A team without roles is a ship without a captain. But a team with rigid hierarchy is a ship that cannot turn.*
 
-**Roles as Moral Contracts:**
-- **Product Owner**: The guardian of *why*.
-- **Scrum Master**: The guardian of *how*.
-- **Development Team**: The guardians of *what*.
-- **Stakeholders**: The guardians of *for whom*.
+| **Directory**         | **Purpose**                                                                                     | **Files**                                                                                     |
+|-----------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **README.md**         | The moral and practical **foundation** of this repository.                                      | Overview, navigation guide, and intent.                                                      |
+| **Core-Agile/**       | The **philosophy** of Agile—why it exists, what it demands.                                      | `agile-basics.md`, `agile-principles-powerbi.md`, `agile-vs-waterfall.md`                     |
+| **Scrum-Framework/**  | The **structure** of Scrum—roles, rituals, and artifacts as tools for **accountability**.        | `roles.md`, `artifacts.md`, `ceremonies.md`, `metrics-measures.md`                            |
+| **PowerBI-Practices/**| The **application** of Agile in Power BI—where theory meets **real-world discipline**.         | `agile-practices-bi.md`, `challenges.md`, `scaling-agile-bi.md`, `mapping-values-powerbi.md`   |
+| **Interview-Prep/**   | The **test** of understanding—questions and answers to **sharpen your clarity**.               | `Questions/interview-questions.md`, `Answers/interview-answers.md`                          |
 
-**Warning:**
-> *Trust is not given. It is built through transparency, one sprint at a time.*
+## File Breakdown: Truth Over Noise
 
-#### **`artifacts-the-structure-of-truth.md`**
-**Opening Line:**
-> *An artifact is not a document. It is a mirror.*
+### **1. README.md**
+**Purpose:** *Why this repository exists—and why it matters.*
+- **The Problem:** Agile in Power BI is often reduced to buzzwords. This repository **restores weight** to the principles.
+- **The Solution:** A structured path to **mastery**, not just interview success.
+- **How to Use It:** Navigate from philosophy (`Core-Agile/`) to practice (`PowerBI-Practices/`) to proof (`Interview-Prep/`).
 
-**Artifacts as Discipline:**
-- **Product Backlog**: The single source of truth—or the single source of lies.
-- **Sprint Backlog**: A contract with reality.
-- **Increment**: Proof of progress, not intention.
+---
 
-### **4. `3-Power-BI-Practices/`**
-#### **`discipline-in-dashboarding.md`**
-**Opening Line:**
-> *A dashboard is not a deliverable. It is a decision.*
+### **2. Core-Agile/: The Bedrock**
+#### **agile-basics.md**
+**Truth:** Agile is not a methodology. It is a **moral commitment** to **clarity, adaptability, and responsibility**.
+- **Iterative Work:** Small steps, **measured and corrected**.
+- **Incremental Value:** Deliver **usable truth**, not perfect illusions.
+- **Collaboration Over Silos:** The team **owns the outcome**—together.
+- **Feedback as Discipline:** The market (or stakeholder) does not lie. **Listen.**
 
-**Rules:**
-1. **Prototype Fast**: Fail in low stakes.
-2. **Iterate Ruthlessly**: No pixel is sacred.
-3. **Govern with Purpose**: Speed requires guardrails.
+#### **agile-principles-powerbi.md**
+**Truth:** Power BI is a tool. Agile is the **discipline** that prevents it from becoming a **weapon of chaos**.
+- **Working Reports > Documentation:** A dashboard is **only valuable if it’s used**.
+- **Quick Mock-Ups > False Precision:** Start with **honest approximations**, not polished deceit.
+- **Stakeholder Collaboration:** KPIs are **not dictated**; they are **negotiated**.
+- **Respond to Changing KPIs:** The world shifts. **Your dashboards must shift with it.**
 
-#### **`challenges-the-cost-of-speed.md`**
-**Opening Line:**
-> *Agile does not eliminate problems. It reveals them faster.*
+#### **agile-vs-waterfall.md**
+**Truth:** Waterfall is the **illusion of control**. Agile is the **practice of honesty**.
+- **Waterfall:** “Plan everything, then pray.”
+- **Agile:** “Plan enough to act, then **adapt as you learn**.”
 
-**Challenges as Lessons:**
-- **Data Dependencies**: The chains you must break or manage.
-- **Version Control**: Chaos is what happens when no one owns the truth.
-- **Technical Debt**: The interest you pay for cutting corners.
+### **3. Scrum-Framework/: The Architecture of Accountability**
+#### **roles.md**
+**Truth:** Roles are not titles. They are **responsibilities**.
+- **Product Owner:** The **voice of truth** (what *must* be built).
+- **Scrum Master:** The **guardian of discipline** (how it *will* be built).
+- **Development Team:** The **builders of value** (who *actually* build it).
+- **Stakeholders:** The **recipients of honesty** (why it matters).
 
-### **5. `4-Interview-Prep/`**
-#### **`the-questions-you-must-answer.md`**
-**Format:** *Not just questions—tests of character and competence.*
-**Example:**
-> **“How do you handle changing requirements mid-sprint?”**
-> *Translation: “Can you balance discipline with adaptability, or will you break under pressure?”*
+#### **artifacts.md**
+**Truth:** Artifacts are not paperwork. They are **mirrors of progress**.
+- **Product Backlog:** The **single source of truth** for what matters.
+- **Sprint Backlog:** The **commitment** for this cycle.
+- **Increment:** The **proof** of work done.
+- **User Story:** The **contract of clarity** (“As a [role], I need [value]”).
+- **Acceptance Criteria:** The **standard of honesty** (“Done” means *done*).
 
-#### **`answers-for-those-who-prepare.md`**
-**Format:** *STAR + Principle.*
-**Example:**
-> **Question:** *“What is the role of testing in Power BI?”*
-> **Answer:**
-> - **Situation**: A dashboard failed in production.
-> - **Task**: Identify why.
-> - **Action**: Built automated validation for data accuracy.
-> - **Result**: Reduced errors by 40%.
-> - **Principle**: *“Testing is not a phase. It is a habit of integrity.”*
+#### **ceremonies.md**
+**Truth:** Ceremonies are not meetings. They are **rituals of alignment**.
+- **Sprint Planning:** “What **must** we achieve?”
+- **Daily Stand-Up:** “What **blocks** our progress?”
+- **Sprint Review:** “What **value** did we deliver?”
+- **Sprint Retrospective:** “What **truth** must we face?”
 
-## Why This Works
-1. **Moral Clarity**: Every file ties technical practice to **responsibility and truth**.
-2. **Actionable Rigor**: No fluff—just **rules, warnings, and principles**.
-3. **Interview-Ready**: Questions and answers are framed as **tests of character**, not just knowledge.
+#### **metrics-measures.md**
+**Truth:** Metrics are not vanity. They are **signals of discipline**.
+- **Velocity:** Not a goal—**a diagnostic**.
+- **Burndown Chart:** The **mirror of progress**.
+- **Lead Time/Cycle Time:** How fast can we **deliver truth**?
+
+### **4. PowerBI-Practices/: Where Principle Meets Pixel**
+#### **agile-practices-bi.md**
+**Truth:** Power BI is **not just a tool**. It is a **test of Agile discipline**.
+- **Prototype Fast:** Build **honest drafts**, not perfect lies.
+- **Dummy Data:** Start with **structure**, not noise.
+- **Frequent Feedback:** Show early, **learn faster**.
+- **Iterative Refinement:** Improve **relentlessly**.
+- **Prioritize KPIs:** Not all metrics are equal. **Focus on what matters**.
+- **Avoid Gold-Plating:** “Done” is **better than “perfect.”**
+- **CI/CD in Power BI Service:** **Automate honesty**.
+- **Version Control:** **Track truth**, not just changes.
+
+#### **challenges.md**
+**Truth:** Agile in Power BI is **hard**. That’s why it’s **worth doing**.
+- **Data Engineering Dependencies:** You are **not an island**.
+- **Unclear KPI Ownership:** If no one owns the metric, **no one owns the truth**.
+- **Speed vs. Governance:** Move fast, but **do not break trust**.
+- **PBIX Version Control:** **Chaos is the default**. Discipline is the choice.
+- **Data Accuracy:** Fast cycles **demand rigor**, not excuses.
+
+#### **scaling-agile-bi.md**
+**Truth:** Scaling Agile is not about size. It’s about **alignment**.
+- **Program Increment Planning:** Multiple teams, **one truth**.
+- **Enterprise Data Strategy:** Agile teams **must** align with the **bigger picture**.
+- **Backlog Grooming:** **Clarity is a team sport**.
+- **Shared Datasets:** **One source of truth**, not ten.
+
+#### **mapping-values-powerbi.md**
+**Truth:** The Agile Manifesto was written for **all builders of value**—including Power BI practitioners.
+- **Individuals & Interactions > Processes & Tools:** **People build dashboards**, not software.
+- **Working Software > Comprehensive Documentation:** A **usable dashboard** is worth a thousand slides.
+- **Customer Collaboration > Contract Negotiation:** KPIs are **co-created**, not dictated.
+- **Responding to Change > Following a Plan:** Dashboards **must evolve**—or they die.
+
+### **5. Interview-Prep/: The Test of Clarity**
+#### **Questions/interview-questions.md**
+**Truth:** Interviews are not about **right answers**. They are about **clear thinking**.
+- What is the **difference between Agile and Scrum**?
+- Explain **user stories**—with a Power BI example.
+- What is a **sprint**? Why 2–4 weeks?
+- How do you handle **changing requirements mid-sprint**?
+- Why does **backlog refinement** matter?
+- **Increment vs. Prototype**: What’s the **real difference**?
+- How does **testing/QA** work in BI?
+- How do you measure **Agile success** beyond velocity?
+- How do you manage **dependencies** in Power BI?
+- How do you **balance technical debt** with speed?
+
+#### **Answers/interview-answers.md**
+**Truth:** Answers must be **structured, honest, and concise**.
+- Use the **STAR method** for scenarios:
+  - **Situation:** “We faced [chaos].”
+  - **Task:** “Our responsibility was [clarity].”
+  - **Action:** “We chose [discipline].”
+  - **Result:** “We delivered [value].”
+- For technical questions: **Define → Example → Why It Matters**.
+
+## **Closing Reflection**
+This repository is **not just for interviews**. It is a **framework for discipline**—a way to **build Power BI solutions with integrity, adapt with honesty, and deliver value with clarity**.
+
+**The test is not whether you can recite Agile.**
+**The test is whether you can *live* it.**
