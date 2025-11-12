@@ -1,4 +1,4 @@
-# README: The Discipline of Speaking Clearly — Agile Power BI Interviews
+# The Discipline of Speaking Clearly - Agile Power BI Interviews
 
 ## Introduction
 
