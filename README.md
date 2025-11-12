@@ -1,5 +1,7 @@
 # **Agile-in-Power-BI: A Framework for Discipline and Delivery**
-> *Structure is not the enemy of creativity; it is its foundation. In the marriage of Agile and Power BI, we find the balance between rigor and adaptability—a system to turn data into truth, and truth into action.*
+
+>[!NOTE]
+>*Structure is not the enemy of creativity; it is its foundation. In the marriage of Agile and Power BI, we find the balance between rigor and adaptability—a system to turn data into truth, and truth into action.*
 
 ## **📂 Repository Structure**
 ```
