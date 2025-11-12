@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You think building a dashboard is about dragging visuals onto a canvas. It isn’t. It’s about **building order from chaos**. In Power BI, the raw data is potential — infinite, but formless. Agile is the discipline that shapes it. Without discipline, iteration becomes entropy. With it, iteration becomes evolution.
+You think building a dashboard is about dragging visuals onto a canvas. It isn’t. It’s about **building order from chaos**. In Power BI, the raw data is potential - infinite, but formless. Agile is the discipline that shapes it. Without discipline, iteration becomes entropy. With it, iteration becomes evolution.
 
 ## On Principles and Process
 
