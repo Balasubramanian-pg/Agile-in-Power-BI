@@ -1,4 +1,4 @@
-# README: The Discipline of Sprint Execution & Team Practices
+# The Discipline of Sprint Execution & Team Practices
 
 ## Introduction
 
