@@ -1,4 +1,4 @@
-# README: The Discipline of Roles & Responsibilities in Ceremonies
+# The Discipline of Roles & Responsibilities in Ceremonies
 
 ## Introduction
 
