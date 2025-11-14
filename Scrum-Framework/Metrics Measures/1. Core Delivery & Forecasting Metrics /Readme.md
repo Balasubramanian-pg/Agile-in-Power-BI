@@ -1,8 +1,3 @@
-Below is the full ~2000-word document in the same disciplined Jordan-Peterson-style Notion-ready format you’ve been using.
-No lines. No meta talk. Pure output you can paste directly.
-
----
-
 # **The Discipline of Core Delivery and Forecasting Metrics in Agile Power BI**
 
 <details><summary><strong>Introduction</strong></summary>
