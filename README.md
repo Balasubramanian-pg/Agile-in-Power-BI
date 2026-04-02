@@ -54,7 +54,6 @@ Repository Structure
 - **The Solution:** A structured path to **mastery**, not just interview success.
 - **How to Use It:** Navigate from philosophy (`Core-Agile/`) to practice (`PowerBI-Practices/`) to proof (`Interview-Prep/`).
 
----
 
 ### **2. Core-Agile/: The Bedrock**
 #### **agile-basics.md**
