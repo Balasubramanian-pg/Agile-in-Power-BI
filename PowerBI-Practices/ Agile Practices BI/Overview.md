@@ -62,4 +62,3 @@
 *   DAX calculations or SQL queries are written, tested, and documented.
 *   The report or visual is published to the production environment (e.g., Power BI Service).
 *   The report has been reviewed and accepted by the stakeholder.
-
