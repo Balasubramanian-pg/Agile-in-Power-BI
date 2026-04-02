@@ -347,4 +347,3 @@ Together, they allow teams to navigate complexity with clarity, stability, and i
 When flow is visible and the system remains healthy, the team delivers insight that is accurate, predictable, and aligned with purpose.
 
 </details>
-
