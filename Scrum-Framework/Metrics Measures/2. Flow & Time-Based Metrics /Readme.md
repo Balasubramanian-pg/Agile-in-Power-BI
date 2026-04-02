@@ -442,4 +442,3 @@ They illuminate it.
 And illumination is the foundation of disciplined, responsible, and truthful delivery.
 
 </details>
-
