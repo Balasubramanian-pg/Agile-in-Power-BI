@@ -14,7 +14,6 @@
 - Demonstrate collaboration with Product Owner
 - Explain the outcome
 
----
 
 ### "Describe your experience working in sprints for report development."
 
@@ -30,7 +29,6 @@ At sprint end, we'd demo working dashboards to stakeholders, not just slides. Th
 - Daily stand-up participation
 - Focus on working software (dashboards) in demos
 
----
 
 ### "How do you prioritize what to build first in a new Power BI project?"
 
@@ -46,7 +44,6 @@ Second, I consider technical foundations. Sometimes you need to build core data 
 - Balance between business needs and technical requirements
 - Emphasis on early value delivery
 
----
 
 ### "What Agile ceremonies have you participated in for BI work?"
 
@@ -69,7 +66,6 @@ Second, I consider technical foundations. Sometimes you need to build core data 
 - Show active contribution, not just attendance
 - Include both technical and process improvements
 
----
 
 ## Scenario-Based Questions - Sample Answers
 
@@ -96,7 +92,6 @@ The attrition dashboard was delivered on time and helped leadership make retenti
 - Clear communication
 - Positive outcome
 
----
 
 ### "How do you manage multiple stakeholders with competing priorities?"
 
@@ -120,7 +115,6 @@ The attrition dashboard was delivered on time and helped leadership make retenti
 - Show facilitation skills
 - Include escalation mechanism
 
----
 
 ## Technical Practices - Sample Answers
 
@@ -148,7 +142,6 @@ The key is that quality activities are part of the sprint plan, not afterthought
 - Realistic estimation
 - Quality as integral, not separate
 
----
 
 ## Questions to Ask Interviewers - Strategic Approach
 
@@ -163,7 +156,6 @@ The key is that quality activities are part of the sprint plan, not afterthought
 - If embedded: "How do you ensure consistent data modeling practices across teams?"
 - If centralized: "How do you maintain close relationships with business stakeholders?"
 
----
 
 ### About Process Maturity
 
@@ -177,7 +169,6 @@ The key is that quality activities are part of the sprint plan, not afterthought
 - Mentions of documentation, testing, deployment (very good)
 - Vague answer like "when stakeholders are happy" (possible red flag)
 
----
 
 ### About Dependencies
 
@@ -191,7 +182,6 @@ The key is that quality activities are part of the sprint plan, not afterthought
 - They acknowledge it's a challenge and describe workarounds (realistic)
 - They seem surprised by the question (potential issue)
 
----
 
 ### About Culture
 
@@ -205,7 +195,6 @@ The key is that quality activities are part of the sprint plan, not afterthought
 - Clear escalation paths
 - Examples of how they've handled this before
 
----
 
 ## Key Phrases to Use Throughout
 
@@ -229,7 +218,6 @@ The key is that quality activities are part of the sprint plan, not afterthought
 - "I identified a process improvement..."
 - "I advocated for..."
 
----
 
 ## Common Pitfalls to Avoid
 
@@ -245,7 +233,6 @@ The key is that quality activities are part of the sprint plan, not afterthought
 ❌ **Don't say:** "I just follow the process."
 ✅ **Do say:** "I actively contribute to improving our processes through retrospectives and by suggesting data-driven improvements."
 
----
 
 ## Tailoring Your Answers
 
