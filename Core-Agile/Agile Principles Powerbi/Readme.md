@@ -60,4 +60,3 @@
 > Good design enhances agility. A messy data model is hard to change.
 *   Regularly refactor and optimize DAX calculations.
 *   Review and improve data model relationships for performance.
-
