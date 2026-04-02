@@ -41,9 +41,7 @@ The analyst must say: *“I will build what matters most. I will build it now. A
 
 That is not just methodology. That is moral discipline.
 
----
 
 **In summary:**
 Agile in Power BI is the confrontation between the ideal and the real, between the mess of data and the order of insight.
 You’re not just managing tasks. You’re managing truth.
-
