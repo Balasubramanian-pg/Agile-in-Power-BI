@@ -382,4 +382,3 @@ In Agile Power BI delivery, ethical measurement is not an ideal.
 It is the discipline that protects insight from illusion and transforms analytical work into a stable foundation for meaningful decision-making.
 
 </details>
-
