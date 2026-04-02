@@ -82,4 +82,3 @@
   > Projects with strict regulatory or compliance requirements.
   > Simple, short projects where the process is predictable.
 
-
