@@ -81,4 +81,3 @@
   > Projects with clear, fixed, and well-understood requirements.
   > Projects with strict regulatory or compliance requirements.
   > Simple, short projects where the process is predictable.
-
