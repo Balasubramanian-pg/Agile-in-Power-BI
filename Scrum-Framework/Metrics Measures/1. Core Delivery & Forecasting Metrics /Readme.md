@@ -344,4 +344,3 @@ They do something more important—they reveal the truth.
 And truth, when acknowledged with humility and discipline, becomes the anchor that prevents chaos and strengthens the reliability of Power BI delivery over time.
 
 </details>
-
