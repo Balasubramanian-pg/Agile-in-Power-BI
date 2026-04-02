@@ -56,4 +56,3 @@
 > A visual representation of the state of work in a process.
 *   Columns typically include: To Do, In Progress, and Done.
 *   Makes workflow and bottlenecks transparent to the entire team.
-
