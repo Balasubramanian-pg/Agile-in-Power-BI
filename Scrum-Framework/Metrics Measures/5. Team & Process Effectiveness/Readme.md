@@ -283,4 +283,3 @@ It is strengthened by stable roles, predictable cadence, responsible refinement,
 When teams embrace this discipline, they build not only reliable dashboards but a resilient system capable of navigating complexity with purpose and integrity.
 
 </details>
-
