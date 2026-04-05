@@ -86,4 +86,4 @@ A high-functioning development team doesn’t wait for permission - it adjusts, 
 Roles in Agile are not hierarchies; they are **mutual commitments**.
 The Product Owner aligns value. The Scrum Master nurtures process. The Developers build truth.
 
-When each role honors its boundaries and responsibilities, the ceremonies stop being meetings — they become moments of alignment, momentum, and collective integrity.
+When each role honors its boundaries and responsibilities, the ceremonies stop being meetings - they become moments of alignment, momentum, and collective integrity.
