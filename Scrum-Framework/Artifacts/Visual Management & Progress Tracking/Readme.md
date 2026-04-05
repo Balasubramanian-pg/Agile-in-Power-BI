@@ -27,7 +27,7 @@ A **Burndown Chart** is a visual confession. It shows how quickly the team is cl
 **Sprint Burndown:** Measures remaining work against time in a single sprint.
 **Release Burndown:** Measures the same across multiple sprints.
 
-A flat line means stagnation. A sudden drop means over-reporting. A smooth curve means consistency — the quiet mark of maturity.
+A flat line means stagnation. A sudden drop means over-reporting. A smooth curve means consistency - the quiet mark of maturity.
 
 When the burndown reveals deviation, the question isn’t *who failed*, but *what needs to change*.
 
