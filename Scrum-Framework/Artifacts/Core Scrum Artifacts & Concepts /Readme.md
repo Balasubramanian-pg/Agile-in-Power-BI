@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Every Agile team lives and dies by the discipline of its artifacts. They are not mere files; they are **structures of accountability**. In Power BI or any digital craft, chaos is not far away — requirements multiply, sprints blur, ownership diffuses. These artifacts stand as the guardrails between momentum and disarray.
+Every Agile team lives and dies by the discipline of its artifacts. They are not mere files; they are **structures of accountability**. In Power BI or any digital craft, chaos is not far away - requirements multiply, sprints blur, ownership diffuses. These artifacts stand as the guardrails between momentum and disarray.
 
 When properly maintained, they give the team clarity, rhythm, and direction. When ignored, entropy creeps in. You must treat each artifact not as a document to be filled, but as a moral obligation to the truth of your work.
 
