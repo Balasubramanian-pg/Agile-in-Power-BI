@@ -9,7 +9,7 @@ When properly maintained, they give the team clarity, rhythm, and direction. Whe
 ## 1.1 Product Backlog
 
 The Product Backlog is the **manifestation of vision meeting reality**.
-It is the single, prioritized list of everything that could be built — all hopes, all requests, all temptations. The Product Owner is its custodian, but the team must constantly challenge and refine it.
+It is the single, prioritized list of everything that could be built - all hopes, all requests, all temptations. The Product Owner is its custodian, but the team must constantly challenge and refine it.
 
 To neglect the backlog is to lose sight of purpose. To overfill it is to deceive yourself with false ambition. Keep it lean, current, and painfully honest.
 
