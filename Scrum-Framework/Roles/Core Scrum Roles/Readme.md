@@ -43,7 +43,7 @@ The **Development Team** transforms vision into working increments. Their streng
 * **Self-Organizing:** The team decides *how* to do the work, within the boundaries of the Sprint Goal.
 * **Collective Ownership:** Success or failure belongs to everyone. There is no “my part,” only “our increment.”
 
-A team that is trusted delivers faster; a team that is directed delivers less. Autonomy is not absence of control — it is ownership exercised with maturity.
+A team that is trusted delivers faster; a team that is directed delivers less. Autonomy is not absence of control - it is ownership exercised with maturity.
 
 ## Closing Reflection
 
