@@ -1,7 +1,7 @@
 # README: The Human Architecture of Truthful Systems
 *- On Boundaries, Clarity, and the Discipline of Shared Understanding*
 
-You stand at the threshold where technology meets human judgment. The files before you-on access control, refresh reliability, stakeholder communication, team structure, coaching, and testing—are not merely procedural. They are the architecture of *trust*. And trust, in the realm of data, is the rarest and most essential commodity.
+You stand at the threshold where technology meets human judgment. The files before you-on access control, refresh reliability, stakeholder communication, team structure, coaching, and testing-are not merely procedural. They are the architecture of *trust*. And trust, in the realm of data, is the rarest and most essential commodity.
 
 Consider **Role-Based Access and Gateway Configuration**. This is not about firewalls or permissions matrices. It is about *moral boundaries*. Who *should* see what? Not who *can*. In a world where a single misplaced filter can expose customer secrets or distort executive strategy, access control is an ethical imperative. Gateways are not plumbing—they are the sentinels at the gate between raw data and human interpretation. To misconfigure them is to invite not just technical failure, but betrayal. You do not “set permissions.” You *define responsibility*.
 
