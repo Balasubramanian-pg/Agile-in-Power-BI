@@ -41,7 +41,7 @@ Each model seeks the same outcome: rapid learning, shared visibility, and adapti
 ## Closing Reflection
 
 Adaptation is not rebellion; it’s respect for reality.
-Agile thrives where teams honor its intent - collaboration, feedback, and iteration — even when form must change.
+Agile thrives where teams honor its intent - collaboration, feedback, and iteration - even when form must change.
 
 Ceremonies exist to sustain alignment under pressure. When teams shorten them, stretch them, or digitize them, the principle remains the same:
 **keep the conversation alive, keep the truth visible, keep improving.**
