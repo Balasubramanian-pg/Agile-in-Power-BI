@@ -8,7 +8,7 @@ Ceremonies give rhythm. Techniques give precision. Without both, effort dissipat
 
 ## Writing Effective Sprint Goals
 
-A **Sprint Goal** is the spine of a sprint — it gives posture to effort.
+A **Sprint Goal** is the spine of a sprint - it gives posture to effort.
 Too many teams treat it as a slogan. The best teams treat it as a **contract of intent**: clear, measurable, and outcome-oriented.
 
 A strong goal is:
