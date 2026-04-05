@@ -1,7 +1,7 @@
 # **The Architecture of Responsibility in Scaled Agile Business Intelligence**  
 *-A Treatise on Order, Truth, and the Burden of Building at Scale*
 
-Before you lies not a menu of technical options, nor a checklist for compliance officers. What you hold is a **map of moral obligation**—a blueprint for how to build systems of truth in an age of noise, haste, and institutional fragility.  
+Before you lies not a menu of technical options, nor a checklist for compliance officers. What you hold is a **map of moral obligation**-a blueprint for how to build systems of truth in an age of noise, haste, and institutional fragility.  
 
 Scaling Agile Business Intelligence is not an engineering problem. It is a **profound test of character**. It demands that you confront chaos not with panic, but with structure; not with shortcuts, but with stewardship. Every topic here answers a single, urgent question: *How do you expand the reach of insight without diluting its integrity?*  
 
