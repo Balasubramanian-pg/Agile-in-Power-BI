@@ -17,7 +17,7 @@ Because make no mistake: every shortcut you take in the name of agility accrues 
 
 **Implementing rollback** is the ultimate expression of humility. It says: *“We will make mistakes. But we will not leave you stranded.”* A dashboard that cannot be reverted is a hostage situation. Rollback is not a failure of planning-it is the proof of planning. It is the difference between a minor incident and a crisis of confidence.
 
-**Documenting DAX and data models** is an act of generosity. It is writing a letter to your future self, and to the stranger who will inherit your work. Documentation that lives only in your head is arrogance. Documentation embedded in the model, versioned with the code, accessible to all—that is stewardship. It transforms tribal knowledge into shared understanding.
+**Documenting DAX and data models** is an act of generosity. It is writing a letter to your future self, and to the stranger who will inherit your work. Documentation that lives only in your head is arrogance. Documentation embedded in the model, versioned with the code, accessible to all-that is stewardship. It transforms tribal knowledge into shared understanding.
 
 **Risk mitigation** is not risk avoidance. It is the deliberate confrontation with uncertainty. It asks: *“What is the worst that could happen? And how will we know before it’s too late?”* Risk unexamined is fate accepted. Risk mitigated is agency reclaimed.
 
