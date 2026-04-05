@@ -114,4 +114,4 @@ The core Scrum ceremonies exist not to impose control but to create **clarity an
 They are how teams stay honest - with themselves, with stakeholders, and with the work.
 
 Respect the time-box. Show real progress. Reflect without fear.
-Do that, and Scrum stops being a process — it becomes a culture of deliberate improvement.
+Do that, and Scrum stops being a process - it becomes a culture of deliberate improvement.
