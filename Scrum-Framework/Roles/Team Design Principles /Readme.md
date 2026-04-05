@@ -63,4 +63,4 @@ Cross-functionality gives capability.
 Self-organization gives agency.
 Dedication gives momentum.
 
-Together, they create a team that doesn’t just deliver value — it **becomes** valuable.
+Together, they create a team that doesn’t just deliver value - it **becomes** valuable.
