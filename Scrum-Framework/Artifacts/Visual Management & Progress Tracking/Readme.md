@@ -9,7 +9,7 @@ In Agile, transparency is mercy: it keeps confusion from multiplying and egos fr
 ## Task Board / Kanban Board
 
 The **Task Board** is the team’s mirror. It shows what’s being done, what’s blocked, and what’s next.
-Its power lies in its simplicity — a visible flow of work from *To Do* to *Done*.
+Its power lies in its simplicity - a visible flow of work from *To Do* to *Done*.
 
 **Setup Essentials:**
 
