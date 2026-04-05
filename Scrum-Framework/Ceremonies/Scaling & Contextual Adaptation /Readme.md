@@ -8,7 +8,7 @@ Adapting Agile is an act of judgment: to know what to change, and what must neve
 
 ## Adapting Ceremonies for Shorter Sprints
 
-When a sprint shrinks from four weeks to one or two, time compresses — but discipline cannot.
+When a sprint shrinks from four weeks to one or two, time compresses - but discipline cannot.
 Every ceremony must tighten its focus without losing intent.
 
 * **Sprint Planning:** Limit it to the essentials — define a clear Sprint Goal and realistic scope within two hours. Avoid debating long-term backlog items.
