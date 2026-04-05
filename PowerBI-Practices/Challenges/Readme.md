@@ -56,7 +56,7 @@ The thirty topics you have encountered are not arbitrary. They are the necessary
 - Implementing rollback or version recovery for dashboards  
 - Documenting DAX and data models efficiently  
 
-Consider: **Data** is the foundation. But data without integrity is poison. You cannot iterate toward truth if your source is shifting beneath you like quicksand. Bottlenecks, quality surprises, brittle pipelines—these are not “IT problems.” They are *epistemological crises*. How can you know anything if the ground of your knowing is unstable? Hence, incremental ETL, automated validation, and refresh reliability are not engineering luxuries—they are prerequisites for honest inquiry.
+Consider: **Data** is the foundation. But data without integrity is poison. You cannot iterate toward truth if your source is shifting beneath you like quicksand. Bottlenecks, quality surprises, brittle pipelines-these are not “IT problems.” They are *epistemological crises*. How can you know anything if the ground of your knowing is unstable? Hence, incremental ETL, automated validation, and refresh reliability are not engineering luxuries—they are prerequisites for honest inquiry.
 
 **Performance** is the test of discipline. A slow DAX measure is not merely inconvenient; it is a betrayal of attention. It forces the user to wait, to doubt, to disengage. In the economy of human cognition, latency is indistinguishable from falsehood. Optimizing performance is not tweaking code—it is respecting the user’s time and the urgency of their decisions. Monitoring is not surveillance; it is vigilance against decay.
 
