@@ -46,4 +46,4 @@ Visual management and progress tracking are not tools of control - they are tool
 A healthy Agile team exposes its reality daily: what’s done, what’s stuck, what’s next.
 
 Visibility builds trust, and trust sustains progress.
-Hide nothing. Let the board, the chart, and the data speak — and learn to listen.
+Hide nothing. Let the board, the chart, and the data speak - and learn to listen.
