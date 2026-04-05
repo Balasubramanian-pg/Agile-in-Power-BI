@@ -86,7 +86,7 @@ Where the Review looks outward, the Retrospective looks inward.
 
 * *Start / Stop / Continue* - clarify habits to change or sustain.
 * *Mad / Sad / Glad* - surface emotion before logic.
-* *5 Whys* — trace recurring pain points to their roots.
+* *5 Whys* - trace recurring pain points to their roots.
 
 **Psychological Safety:**
 Teams only improve when truth can be spoken. The Scrum Master must cultivate trust — no blame, no posturing.
