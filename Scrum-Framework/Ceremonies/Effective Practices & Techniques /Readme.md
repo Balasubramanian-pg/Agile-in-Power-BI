@@ -59,7 +59,7 @@ Expectation management is honesty in motion. Don’t over-promise; narrate progr
 
 ## Closing Reflection
 
-Agile excellence isn’t built in frameworks — it’s built in **discipline and care**.
+Agile excellence isn’t built in frameworks - it’s built in **discipline and care**.
 A precise goal gives focus. A real retrospective gives growth. A transparent review gives trust.
 
 When practiced well, these three techniques create a loop of integrity:
