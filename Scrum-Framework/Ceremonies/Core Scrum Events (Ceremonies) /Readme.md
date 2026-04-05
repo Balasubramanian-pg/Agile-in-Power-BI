@@ -4,7 +4,7 @@
 
 Scrum ceremonies are not meetings to fill calendars; they are **anchors of accountability**.
 Each exists to maintain rhythm, expose truth, and protect the team from drift.
-They are the pulse of Agile - predictable, time-boxed, and purposeful — ensuring that progress is both deliberate and inspectable.
+They are the pulse of Agile - predictable, time-boxed, and purposeful - ensuring that progress is both deliberate and inspectable.
 
 When practiced with intent, these ceremonies transform chaos into cadence.
 
