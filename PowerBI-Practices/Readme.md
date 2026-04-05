@@ -92,7 +92,7 @@ Every document in this repository is aligned to that higher standard.
 
 - **Version control** is not about files-it is about *traceable truth*.  
 - **Regression testing** is not about scripts-it is about *preserving trust*.  
-- **Sprint demos** are not about showing off—they are about *validating assumptions*.  
+- **Sprint demos** are not about showing off-they are about *validating assumptions*.  
 
 This is the work of **stewardship**, not just development.
 
