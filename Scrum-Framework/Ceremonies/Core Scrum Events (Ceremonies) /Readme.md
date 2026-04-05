@@ -11,7 +11,7 @@ When practiced with intent, these ceremonies transform chaos into cadence.
 ## Sprint Planning
 
 **Purpose:** Define what will be done and *why* it matters.
-Planning turns potential into commitment — the bridge between the Product Goal and immediate action.
+Planning turns potential into commitment - the bridge between the Product Goal and immediate action.
 
 **Participants:** Product Owner, Scrum Master, and the entire Development Team.
 
