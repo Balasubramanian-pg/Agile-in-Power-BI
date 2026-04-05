@@ -42,7 +42,7 @@ Self-organizing teams are not left alone; they are trusted to think. Management�
 ## Dedicated Team Members
 
 Split focus is quiet sabotage.
-Part-time members or constant context switching drain velocity, increase rework, and erode morale. A person toggling between two teams isn’t adding value to both — they’re fragmenting focus for both.
+Part-time members or constant context switching drain velocity, increase rework, and erode morale. A person toggling between two teams isn’t adding value to both - they’re fragmenting focus for both.
 
 **Consequences:**
 
