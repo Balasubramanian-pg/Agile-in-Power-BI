@@ -3,7 +3,7 @@
 ## Introduction
 
 Agile fails fastest when roles blur.
-Each role — Product Owner, Scrum Master, Developer — exists to balance the others. When boundaries collapse, accountability disappears: Product Owners start managing tasks, Scrum Masters start managing people, and developers become order-takers instead of problem-solvers.
+Each role - Product Owner, Scrum Master, Developer — exists to balance the others. When boundaries collapse, accountability disappears: Product Owners start managing tasks, Scrum Masters start managing people, and developers become order-takers instead of problem-solvers.
 Clarity is not rigidity; it’s the structure that allows collaboration to stay honest.
 
 ## PO vs. SM: Clear Distinctions
