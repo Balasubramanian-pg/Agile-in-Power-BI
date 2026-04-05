@@ -18,7 +18,7 @@ To neglect the backlog is to lose sight of purpose. To overfill it is to deceive
 The Sprint Backlog is the **commitment of the present**.
 It says, “This is what we will do now, and we will do it fully.” Each item represents a promise. Breaking it casually corrodes trust, and trust is the currency of agility.
 
-This artifact teaches restraint. You cannot do everything. So, choose carefully — and deliver relentlessly.
+This artifact teaches restraint. You cannot do everything. So, choose carefully - and deliver relentlessly.
 
 ## 1.3 Increment
 
