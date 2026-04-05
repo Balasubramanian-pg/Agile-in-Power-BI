@@ -49,7 +49,7 @@ Velocity becomes meaningful only when used responsibly-to guide planning, not to
 Throughput measures the number of completed work items, independent of story points.
 It removes the subjectivity that sometimes accompanies estimation.
 
-Power BI work often includes small tasks-refining relationships, clarifying definitions, adjusting visuals—that do not merit heavy estimation.
+Power BI work often includes small tasks-refining relationships, clarifying definitions, adjusting visuals-that do not merit heavy estimation.
 Tracking throughput helps teams understand their actual volume of movement.
 
 Patterns in throughput identify bottlenecks.
