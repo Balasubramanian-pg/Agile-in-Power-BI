@@ -50,7 +50,7 @@ Stakeholders should leave with clarity - what’s done, what’s next, and how w
 
 **Effective techniques:**
 
-* Prepare demos that tell a story — from user need to delivered outcome.
+* Prepare demos that tell a story - from user need to delivered outcome.
 * Show real data, not mock-ups.
 * Ask for feedback that improves, not flatters: “Does this solve your problem?”
 * Capture all input live in the backlog.
