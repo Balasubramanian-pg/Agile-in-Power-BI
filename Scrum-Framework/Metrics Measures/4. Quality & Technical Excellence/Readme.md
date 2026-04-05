@@ -291,7 +291,7 @@ Debt reduction strengthens resilience.
 
 <details><summary><strong>9. Coding Standards as a Shield Against Chaos</strong></summary>
 
-Coding standards do not constrain creativity—they preserve coherence.
+Coding standards do not constrain creativity-they preserve coherence.
 
 Standards include:
 
