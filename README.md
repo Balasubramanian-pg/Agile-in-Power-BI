@@ -162,7 +162,7 @@ Repository Structure
 - For technical questions: **Define → Example → Why It Matters**.
 
 ## **Closing Reflection**
-This repository is **not just for interviews**. It is a **framework for discipline**—a way to **build Power BI solutions with integrity, adapt with honesty, and deliver value with clarity**.
+This repository is **not just for interviews**. It is a **framework for discipline**-a way to **build Power BI solutions with integrity, adapt with honesty, and deliver value with clarity**.
 
 **The test is not whether you can recite Agile.**
 **The test is whether you can *live* it.**
