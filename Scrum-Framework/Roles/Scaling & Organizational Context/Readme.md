@@ -8,7 +8,7 @@ True scaling preserves **clarity of purpose** and **authentic collaboration**, e
 
 ## Product Owner in SAFe or LeSS
 
-At scale, a single Product Owner can’t carry the weight of every decision. Frameworks like **SAFe** and **LeSS** divide ownership — not to dilute it, but to align it.
+At scale, a single Product Owner can’t carry the weight of every decision. Frameworks like **SAFe** and **LeSS** divide ownership - not to dilute it, but to align it.
 
 * In **SAFe**, *Product Management* sets strategy and vision, while *Team Product Owners* manage the local backlog. The PO becomes part diplomat, part translator — ensuring alignment between global intent and sprint-level reality.
 * In **LeSS**, the structure is flatter. One Product Owner still owns the product vision but works closely with multiple teams that refine and deliver from a shared backlog.
