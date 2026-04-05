@@ -13,7 +13,7 @@ At scale, a single Product Owner can’t carry the weight of every decision. Fra
 * In **SAFe**, *Product Management* sets strategy and vision, while *Team Product Owners* manage the local backlog. The PO becomes part diplomat, part translator - ensuring alignment between global intent and sprint-level reality.
 * In **LeSS**, the structure is flatter. One Product Owner still owns the product vision but works closely with multiple teams that refine and deliver from a shared backlog.
 
-Scaling does not mean multiplying roles; it means deepening communication. The moment vision fragments, teams drift into local optimization — progress without coherence.
+Scaling does not mean multiplying roles; it means deepening communication. The moment vision fragments, teams drift into local optimization - progress without coherence.
 
 ## Distributed Agile Teams & Role Effectiveness
 
