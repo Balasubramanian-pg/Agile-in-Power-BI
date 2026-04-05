@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Frameworks are scaffolds, not cages. Agile succeeds when its ceremonies evolve with context — not when they’re repeated by rote. Shorter sprints, distributed teams, or larger ecosystems each demand a recalibration of rhythm, not a rejection of principle.
+Frameworks are scaffolds, not cages. Agile succeeds when its ceremonies evolve with context - not when they’re repeated by rote. Shorter sprints, distributed teams, or larger ecosystems each demand a recalibration of rhythm, not a rejection of principle.
 
 Adapting Agile is an act of judgment: to know what to change, and what must never change.
 
