@@ -11,7 +11,7 @@ Let us now walk through the five pillars of responsible scale-not as abstract ca
 
 ### **1. Governance and Control: The Discipline of Boundaries**  
 
-Governance is not bureaucracy. It is the **architecture of trust**. Without it, “self-service” devolves into anarchy—where every analyst becomes a rogue data sovereign, and the organization drowns in contradictory truths.  
+Governance is not bureaucracy. It is the **architecture of trust**. Without it, “self-service” devolves into anarchy-where every analyst becomes a rogue data sovereign, and the organization drowns in contradictory truths.  
 
 - **Power BI governance frameworks** are your covenant with reality. They answer: *What is certified? What is experimental? Who is accountable when the numbers lie?*  
 - **Role-based access and RLS at scale** is not about locking data away—it is about *moral precision*. It ensures that a regional manager sees only what they are responsible for, and nothing more. To fail here is to invite not just security breaches, but ethical violations.  
