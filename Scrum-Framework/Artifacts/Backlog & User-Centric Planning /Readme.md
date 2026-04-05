@@ -41,7 +41,7 @@ Prioritization is an act of judgment, not luck. It’s where leadership reveals 
 * **MoSCoW** - Must, Should, Could, Won’t. A simple discipline of necessity.
 * **Value vs. Effort Matrix** - Confronts trade-offs between impact and cost.
 * **Kano Model** - Distinguishes what delights from what merely satisfies.
-* **WSJF (Weighted Shortest Job First)** — Forces numerical honesty by weighing value against duration.
+* **WSJF (Weighted Shortest Job First)** - Forces numerical honesty by weighing value against duration.
 
 Each method exists to counter the bias of preference. You don’t build what’s loudest; you build what’s most valuable.
 
