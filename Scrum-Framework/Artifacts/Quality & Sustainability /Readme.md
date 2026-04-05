@@ -21,7 +21,7 @@ Managing debt means naming it, tracking it, and repaying it deliberately. The go
 ## Continuous Integration & Deployment
 
 **Continuous Integration (CI)** is the discipline of merging changes early and often. It prevents divergence and forces transparency.
-**Continuous Deployment (CD)** is the courage to release small, working increments regularly — each one meeting the full Definition of Done.
+**Continuous Deployment (CD)** is the courage to release small, working increments regularly - each one meeting the full Definition of Done.
 
 Together, they make “Done” mean **releasable**.
 Not “almost ready,” not “works on my machine,” but genuinely stable, tested, and fit for use.
