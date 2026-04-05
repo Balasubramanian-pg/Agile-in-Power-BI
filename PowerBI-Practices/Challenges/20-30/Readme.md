@@ -3,7 +3,7 @@
 
 You are moving fast. Good. Stagnation is death. But speed without direction is merely noise. Speed without discipline is *destruction deferred*. And in the world of Power BI-where a single measure can steer millions in capital, where a dashboard can shape the fate of a product line-deferred destruction is not an option.
 
-The files before you-*Preventing Technical Debt*, *Building Resilience*, *Source Control*, *Workspace Governance*, *Rollback*, *Documentation*, *Risk Mitigation*—are not operational footnotes. They are the ethical boundaries of responsible creation. They answer a single, urgent question: **How do you build quickly without building poorly?**
+The files before you-*Preventing Technical Debt*, *Building Resilience*, *Source Control*, *Workspace Governance*, *Rollback*, *Documentation*, *Risk Mitigation*-are not operational footnotes. They are the ethical boundaries of responsible creation. They answer a single, urgent question: **How do you build quickly without building poorly?**
 
 Because make no mistake: every shortcut you take in the name of agility accrues interest. That untested DAX formula? It will lie dormant until the quarter-end close, then explode in a boardroom. That undocumented dataset? It will become a tombstone for institutional knowledge when the creator leaves. That workspace spun up in five clicks? It will linger for years, a ghost ship carrying sensitive data into the fog of forgotten permissions. This is not “tech debt.” This is *moral debt*—a promise broken to your future colleagues, your stakeholders, and the truth itself.
 
