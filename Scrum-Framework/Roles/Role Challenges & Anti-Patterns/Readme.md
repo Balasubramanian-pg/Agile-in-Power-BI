@@ -8,7 +8,7 @@ Understanding the anti-patterns is how teams defend the integrity of their craft
 
 ## Proxy Product Owner
 
-When the **Product Owner** is absent or too busy, organizations often install a *proxy* — a Business Analyst, Scrum Master, or mid-layer manager who “represents the PO.” It seems harmless. It isn’t.
+When the **Product Owner** is absent or too busy, organizations often install a *proxy* - a Business Analyst, Scrum Master, or mid-layer manager who “represents the PO.” It seems harmless. It isn’t.
 
 **Risks:**
 
