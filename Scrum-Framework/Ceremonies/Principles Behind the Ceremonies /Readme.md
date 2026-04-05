@@ -50,7 +50,7 @@ A consistent rhythm means:
 * The team earns reliability through repetition.
 
 Velocity emerges not from speed, but from **steady rhythm**.
-A team that meets irregularly loses coherence; a team that keeps its cadence becomes a system — self-correcting, resilient, and calm under pressure.
+A team that meets irregularly loses coherence; a team that keeps its cadence becomes a system - self-correcting, resilient, and calm under pressure.
 
 ## Closing Reflection
 
