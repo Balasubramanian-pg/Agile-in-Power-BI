@@ -21,7 +21,7 @@ It’s not a luxury - it’s the foundation of speed and accountability.
 **How to build it:**
 
 * Identify essential capabilities: data, analysis, visualization, testing, and deployment.
-* Map skill gaps openly — not to assign blame, but to plan growth.
+* Map skill gaps openly - not to assign blame, but to plan growth.
 * Invest in overlap: pair people with complementary strengths until boundaries soften.
 
 The goal is not “everyone does everything,” but “nothing stops because someone’s missing.”
