@@ -79,6 +79,6 @@ This is not easy work. It demands more than technical skill-it demands **moral c
 For when the CEO makes a $100M decision based on your dashboard, they are not trusting your DAX.  
 They are trusting *you*.  
 
-Do not betray that trust. Build as if lives depend on it—because in the life of an organization, they do.  
+Do not betray that trust. Build as if lives depend on it-because in the life of an organization, they do.  
 
 —  *"Order is not the enemy of agility. Chaos is."*
