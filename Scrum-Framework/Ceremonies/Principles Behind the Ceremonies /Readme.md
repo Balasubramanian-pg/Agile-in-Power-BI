@@ -26,7 +26,7 @@ Together, they form an honest loop - a feedback engine that trades illusion for 
 
 Time-boxing is the **boundary that creates focus**.
 Without limits, meetings drift and energy dissolves. A two-hour planning session should not become an afternoon of indecision.
-Each ceremony has a fixed duration for a reason — constraint forces clarity.
+Each ceremony has a fixed duration for a reason - constraint forces clarity.
 
 **To uphold it:**
 
