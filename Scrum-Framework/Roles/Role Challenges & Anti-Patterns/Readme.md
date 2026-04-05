@@ -44,7 +44,7 @@ The Scrum Master is a mirror, not a manager. Their power lies in reflection, not
 ## “Team of Specialists” vs. Cross-Functional Reality
 
 Many teams claim to be cross-functional but behave like silos under one logo.
-There’s one DAX expert, one tester, one data modeler — and everyone waits for them.
+There’s one DAX expert, one tester, one data modeler - and everyone waits for them.
 Velocity looks fine on paper, but flow collapses when any single specialist is unavailable.
 
 **Challenges:**
