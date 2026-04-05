@@ -16,7 +16,7 @@ It’s not a luxury - it’s the foundation of speed and accountability.
 
 * Eliminates handoffs that dilute responsibility.
 * Enables faster iteration and integrated thinking.
-* Builds empathy across roles — data engineers understand visuals, analysts understand data lineage.
+* Builds empathy across roles - data engineers understand visuals, analysts understand data lineage.
 
 **How to build it:**
 
