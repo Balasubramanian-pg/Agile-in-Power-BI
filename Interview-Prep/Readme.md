@@ -21,7 +21,7 @@ In Power BI, “working software” is not theory; it is a report that refreshes
 ## On Prioritization and Value
 
 The question of “what to build first” is moral as much as technical. The answer must balance **impact and feasibility**.
-You do not build what excites you; you build what matters most. Begin with what brings the most immediate clarity to the business — even if it is simple.
+You do not build what excites you; you build what matters most. Begin with what brings the most immediate clarity to the business - even if it is simple.
 
 Frameworks like MoSCoW are not bureaucracy; they are language for collective reasoning. They make trade-offs explicit, forcing the team to confront what “value” truly means.
 
