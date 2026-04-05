@@ -5,7 +5,7 @@ Before you lies not a mere checklist of technical concerns, nor a dry inventory 
 
 Modern organizations drown not in data, but in *undisciplined data*. They accumulate dashboards like hoarders collect newspapers-each one a hopeful promise of insight, yet collectively a monument to confusion, contradiction, and decay. 
 
-The Agile promise—to deliver value iteratively, responsively, and collaboratively—too often collapses under the weight of unspoken assumptions, unexamined risks, and the silent corrosion of technical debt. This is not a failure of tools. It is a failure of *order*.
+The Agile promise-to deliver value iteratively, responsively, and collaboratively—too often collapses under the weight of unspoken assumptions, unexamined risks, and the silent corrosion of technical debt. This is not a failure of tools. It is a failure of *order*.
 
 The thirty topics you have encountered are not arbitrary. They are the necessary pillars of a functional epistemology for the data-driven enterprise. Each addresses a point of potential collapse—where ambiguity festers, where error propagates unseen, where speed becomes indistinguishable from recklessness. To ignore them is to build your house on sand, and to be surprised when the storm comes (as it always does).
 
