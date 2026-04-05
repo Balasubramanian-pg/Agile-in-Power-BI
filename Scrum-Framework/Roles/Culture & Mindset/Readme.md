@@ -28,7 +28,7 @@ A healthy Agile team does not hide behind roles; it rallies around the product.
 
 * **Shared Backlog Reviews:** Everyone understands priorities, not just the PO.
 * **Cross-functional Transparency:** Data engineers, analysts, and testers all understand how their work impacts the user.
-* **Joint Decision-Making:** Trade-offs are discussed as a group — no “throwing over the wall.”
+* **Joint Decision-Making:** Trade-offs are discussed as a group - no “throwing over the wall.”
 
 Accountability in Agile isn’t top-down; it’s circular.
 When success is collective, failure is shared — and learning accelerates.
