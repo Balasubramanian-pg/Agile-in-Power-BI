@@ -42,7 +42,7 @@ The real danger is when velocity becomes performance theater - when teams inflat
 
 ## Closing Reflection
 
-Visual management and progress tracking are not tools of control — they are tools of honesty.
+Visual management and progress tracking are not tools of control - they are tools of honesty.
 A healthy Agile team exposes its reality daily: what’s done, what’s stuck, what’s next.
 
 Visibility builds trust, and trust sustains progress.
