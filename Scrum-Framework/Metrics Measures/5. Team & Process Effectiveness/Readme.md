@@ -10,7 +10,7 @@ When the process operates without intention, the system drifts toward fragility.
 
 Team and process effectiveness form the backbone of Agile Power BI delivery.
 They create the conditions in which modeling, logic, and visualization can emerge with precision and stability.
-This effectiveness rests on a simple truth: disciplined teams do not wait for order—they build it.
+This effectiveness rests on a simple truth: disciplined teams do not wait for order-they build it.
 
 </details>
 
