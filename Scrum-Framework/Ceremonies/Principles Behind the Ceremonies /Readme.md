@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Agile ceremonies are not meetings — they are **mechanisms of discipline**.
+Agile ceremonies are not meetings - they are **mechanisms of discipline**.
 Each exists to expose reality, confront it, and adjust course. They are the practical expression of humility: the willingness to inspect one’s work and adapt without ego.
 When teams lose that spirit, ceremonies become noise; when they honor it, ceremonies become the rhythm of improvement.
 
