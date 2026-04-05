@@ -54,7 +54,7 @@ A team that meets irregularly loses coherence; a team that keeps its cadence bec
 
 ## Closing Reflection
 
-The ceremonies of Agile are not bureaucracy — they are the rituals of self-awareness.
+The ceremonies of Agile are not bureaucracy - they are the rituals of self-awareness.
 They exist to help teams see clearly, act decisively, and learn continuously.
 
 Respect the time-box. Keep the cadence. Embrace inspection.
