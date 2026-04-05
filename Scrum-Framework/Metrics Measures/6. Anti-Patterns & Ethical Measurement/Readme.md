@@ -172,7 +172,7 @@ Escaped defects
 Model health
 Data stability
 
-These metrics expose reality—even when it is uncomfortable.
+These metrics expose reality-even when it is uncomfortable.
 
 </details>
 
