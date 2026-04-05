@@ -25,7 +25,7 @@ You can delegate work, but not responsibility. A proxy can carry information, no
 
 ## Scrum Master as Team Admin or Project Manager
 
-The **Scrum Master** is often mistaken for a coordinator — someone who books rooms, records notes, and reminds people of deadlines.
+The **Scrum Master** is often mistaken for a coordinator - someone who books rooms, records notes, and reminds people of deadlines.
 That’s not facilitation; that’s clerical work disguised as leadership.
 
 **Symptoms:**
