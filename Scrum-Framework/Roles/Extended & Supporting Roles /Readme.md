@@ -41,7 +41,7 @@ In traditional projects, the BA wrote static requirements. In Agile, they co-cre
 From “translator of requirements” to “partner in discovery.”
 From “handoff” to “shared problem-solving.”
 
-A strong BA brings analytical depth without slowing collaboration — turning ambiguity into clarity while keeping momentum intact.
+A strong BA brings analytical depth without slowing collaboration - turning ambiguity into clarity while keeping momentum intact.
 
 ## Agile Coach vs. Scrum Master
 
