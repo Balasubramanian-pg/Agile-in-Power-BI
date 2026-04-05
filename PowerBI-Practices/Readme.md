@@ -10,7 +10,7 @@ Power BI is not a reporting tool. It is a **system of sense-making**-a nervous s
 This repository is a response to that danger. It is a collection of **practices, not prescriptions**-hard-won lessons from teams who have stared into the abyss of dashboard chaos and chosen, instead, to build with discipline.  
 
 The documents within are grouped into four pillars:  
-1. **Agile Practices BI** — *How to run sprints that deliver real insight, not just pixels.*  
+1. **Agile Practices BI** - *How to run sprints that deliver real insight, not just pixels.*  
 2. **Challenges** — *The friction points where theory meets reality—and how to overcome them.*  
 3. **Mapping Values PowerBI** — *Connecting technical output to business outcomes.*  
 4. **Scaling Agile BI** — *From squad to enterprise: governance without suffocation.*  
