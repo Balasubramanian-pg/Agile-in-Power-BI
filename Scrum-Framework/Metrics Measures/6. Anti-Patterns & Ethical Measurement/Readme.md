@@ -253,7 +253,7 @@ Velocity quotas
 Story-point minimums
 Throughput thresholds disconnected from reality
 
-Targets should guide—not coerce.
+Targets should guide-not coerce.
 
 </details>
 
