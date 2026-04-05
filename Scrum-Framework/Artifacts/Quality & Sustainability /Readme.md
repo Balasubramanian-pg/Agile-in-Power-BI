@@ -26,7 +26,7 @@ Managing debt means naming it, tracking it, and repaying it deliberately. The go
 Together, they make “Done” mean **releasable**.
 Not “almost ready,” not “works on my machine,” but genuinely stable, tested, and fit for use.
 
-When CI/CD is working, quality ceases to be a checkpoint and becomes a rhythm — validation through automation, improvement through repetition.
+When CI/CD is working, quality ceases to be a checkpoint and becomes a rhythm - validation through automation, improvement through repetition.
 
 ## Closing Reflection
 
