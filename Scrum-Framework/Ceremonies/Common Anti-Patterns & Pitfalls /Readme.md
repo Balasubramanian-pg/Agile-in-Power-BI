@@ -46,7 +46,7 @@ Every Agile anti-pattern begins with a noble intention - to save time, to improv
 
 Ritual must serve meaning.
 Ceremony must serve truth.
-The moment either becomes habit for its own sake, you’ve built process without purpose — a house with no light.
+The moment either becomes habit for its own sake, you’ve built process without purpose - a house with no light.
 
 Keep your ceremonies alive. Challenge them. Question them. Protect their intent.
 Because Agile dies not from opposition, but from indifference.
