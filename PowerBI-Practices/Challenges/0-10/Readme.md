@@ -1,7 +1,7 @@
 # *The Foundations of Order in the Data Deluge*
 *-On Bottlenecks, Quality, and the Courage to Build Slowly Enough to Build Well*
 
-You are not drowning in data. You are drowning in *disorder*. The files before you-on access bottlenecks, data quality, ETL, validation, performance, modularity, versioning, environments, and deployment governance—are not technical appendices. They are the first principles of *epistemological hygiene* in an age of information chaos.
+You are not drowning in data. You are drowning in *disorder*. The files before you-on access bottlenecks, data quality, ETL, validation, performance, modularity, versioning, environments, and deployment governance-are not technical appendices. They are the first principles of *epistemological hygiene* in an age of information chaos.
 
 Consider **Managing Data Access Bottlenecks**. This is not about waiting for database permissions. It is about confronting the lie that “data is available” when it is locked behind tribal knowledge, unresponsive teams, or opaque processes. Access is not a gate to open—it is a *covenant of shared purpose*. If your sprint grinds to a halt because you cannot reach the truth, your Agile process is a theater of frustration, not a machine of value. Remove the bottleneck, or admit you are building on faith, not fact.
 
