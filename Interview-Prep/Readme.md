@@ -41,7 +41,7 @@ Every refresh that runs clean, every visual that tells the truth - that is a mor
 ## On Leadership and Growth
 
 The junior learns by asking. The mid-level learns by improving. The senior learns by teaching.
-Your answers in an interview should reflect that progression — not in title, but in thought. Speak to how you create value, how you handle conflict, and how you improve systems, not just yourself.
+Your answers in an interview should reflect that progression - not in title, but in thought. Speak to how you create value, how you handle conflict, and how you improve systems, not just yourself.
 
 Leadership is the courage to make things better when you could have looked away.
 
