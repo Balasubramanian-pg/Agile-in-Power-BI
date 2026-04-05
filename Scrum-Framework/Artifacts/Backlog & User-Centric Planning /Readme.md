@@ -39,7 +39,7 @@ Neglecting refinement leads to a backlog that looks busy but means nothing. It�
 Prioritization is an act of judgment, not luck. It’s where leadership reveals itself. Use tools to make those judgments explicit:
 
 * **MoSCoW** - Must, Should, Could, Won’t. A simple discipline of necessity.
-* **Value vs. Effort Matrix** — Confronts trade-offs between impact and cost.
+* **Value vs. Effort Matrix** - Confronts trade-offs between impact and cost.
 * **Kano Model** — Distinguishes what delights from what merely satisfies.
 * **WSJF (Weighted Shortest Job First)** — Forces numerical honesty by weighing value against duration.
 
