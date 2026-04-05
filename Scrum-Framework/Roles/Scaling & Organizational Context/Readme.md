@@ -29,7 +29,7 @@ Maintaining presence across geography requires deliberate design.
 **For Scrum Masters:**
 
 * Use collaboration tools (Miro, Jira, Slack, Teams) not as checklists, but as shared spaces for thought.
-* Watch tone and timing — the absence of tone in chat can feel like indifference.
+* Watch tone and timing - the absence of tone in chat can feel like indifference.
 * Create small rituals of connection — weekly syncs, end-of-sprint reflections, or informal catch-ups.
 
 Distributed agility thrives when presence is redefined — less about physical proximity, more about *consistent clarity and empathy*.
