@@ -3,7 +3,7 @@
 ## Introduction
 
 Tools don’t make Agile work. Teams do.
-The structure of a team determines how ideas turn into outcomes — and how quickly disorder creeps in.
+The structure of a team determines how ideas turn into outcomes - and how quickly disorder creeps in.
 Agile’s power doesn’t come from ceremonies; it comes from teams designed for ownership, learning, and flow.
 Team design is not an HR diagram. It’s moral architecture — deciding how people will succeed or struggle together.
 
