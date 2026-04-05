@@ -235,7 +235,7 @@ Measure-by-measure cross-verification
 Refresh testing
 Stakeholder confirmation of business meaning
 
-Testing is not optional—it is structural.
+Testing is not optional-it is structural.
 
 </details>
 
