@@ -74,7 +74,7 @@ Second, I consider technical foundations. Sometimes you need to build core data 
 **Strong Answer:**
 "In one sprint, we were building an HR analytics dashboard focused on hiring metrics when the CHRO urgently needed attrition analysis due to unexpected turnover trends. Rather than just adding work to our sprint, I took a structured approach:
 
-**1. Quick Assessment:** I spent 30 minutes prototyping with available data to understand the effort involved—about 2 days of work.
+**1. Quick Assessment:** I spent 30 minutes prototyping with available data to understand the effort involved-about 2 days of work.
 
 **2. Impact Analysis:** I documented that adding this would put our original sprint goal at risk and presented three options to the Product Owner: (a) defer one planned feature, (b) extend the sprint (not ideal), or (c) add this to the next sprint with high priority.
 
