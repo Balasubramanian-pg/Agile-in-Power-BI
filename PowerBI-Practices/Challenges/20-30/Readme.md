@@ -1,5 +1,5 @@
 # README: The Burden of Speed and the Discipline of Stewardship  
-*—On Technical Debt, Fragility, and the Courage to Build Well*
+*-On Technical Debt, Fragility, and the Courage to Build Well*
 
 You are moving fast. Good. Stagnation is death. But speed without direction is merely noise. Speed without discipline is *destruction deferred*. And in the world of Power BI—where a single measure can steer millions in capital, where a dashboard can shape the fate of a product line—deferred destruction is not an option.
 
