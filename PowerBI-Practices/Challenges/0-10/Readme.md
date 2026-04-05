@@ -19,7 +19,7 @@ Consider **Managing Data Access Bottlenecks**. This is not about waiting for dat
 
 **Managing Power BI Environments (Dev/Test/Prod)** is the architecture of sanity. Without separation, you are testing in production. You are experimenting on your users. You are mistaking hope for validation. Environments are not overhead-they are *layers of protection*. They allow you to break things safely, learn quickly, and deploy confidently. Collapse them, and you collapse the very possibility of reliable delivery.
 
-**Deployment Pipelines Governance** is the final safeguard against hubris. A pipeline without governance is a loaded gun with no safety. It can deliver value at speed—or it can blast broken logic into the hands of executives at 3 a.m. Governance is not red tape. It is *quality control*. It is the gate that asks: *“Is this truly ready? Has it been tested, reviewed, documented?”* Without it, your CI/CD is not continuous delivery—it is continuous risk.
+**Deployment Pipelines Governance** is the final safeguard against hubris. A pipeline without governance is a loaded gun with no safety. It can deliver value at speed-or it can blast broken logic into the hands of executives at 3 a.m. Governance is not red tape. It is *quality control*. It is the gate that asks: *“Is this truly ready? Has it been tested, reviewed, documented?”* Without it, your CI/CD is not continuous delivery—it is continuous risk.
 
 These nine files, then, are not about managing Power BI. They are about *building a system worthy of trust*. They demand that you treat data not as a commodity, but as a covenant. That you move iteratively, but never carelessly. That you automate not to replace judgment, but to *amplify it*.
 
