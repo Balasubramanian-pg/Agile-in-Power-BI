@@ -66,7 +66,7 @@ Consider: **Data** is the foundation. But data without integrity is poison. You 
 
 **Tooling & Governance** is the architecture of scale. Version control is not for files-it is for *memory*. Rollback is not a panic button-it is the embodiment of humility (“We were wrong; let us return”). Workspace sprawl is not clutter-it is *moral hazard*, a diffusion of responsibility that invites security breaches and compliance failures. Documentation is not paperwork-it is the transmission of understanding across time and personnel. And source control? It is the bedrock of trust: the promise that every change is traceable, reviewable, and reversible.
 
-To master these thirty domains is not to become a technician. It is to become a *steward of truth*. It is to accept that in the realm of data, as in life, order does not emerge from goodwill alone. It emerges from *careful attention*, *ruthless prioritization*, and the courage to impose structure on chaos—so that others may see clearly, decide wisely, and act justly.
+To master these thirty domains is not to become a technician. It is to become a *steward of truth*. It is to accept that in the realm of data, as in life, order does not emerge from goodwill alone. It emerges from *careful attention*, *ruthless prioritization*, and the courage to impose structure on chaos-so that others may see clearly, decide wisely, and act justly.
 
 Do not skip the hard parts. Do not say, “We’ll handle governance later.” Later is when the audit fails. Later is when the executive makes a catastrophic decision based on a silent error in a measure no one understood. Later is too late.
 
