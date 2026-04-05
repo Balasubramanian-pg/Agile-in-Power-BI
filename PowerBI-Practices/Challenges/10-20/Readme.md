@@ -17,7 +17,7 @@ Consider **Role-Based Access and Gateway Configuration**. This is not about fire
 
 **Defining and Enforcing “Definition of Done”** is the bedrock of integrity. Without it, “done” means “I stopped working.” With it, “done” means *“This is safe to trust.”* Your DoD is your covenant with the user. It includes not just functionality, but documentation, testing, performance, security. If it’s not in the DoD, it doesn’t exist. Enforce it ruthlessly-not as a barrier, but as a *standard of care*.
 
-**Skill Development Roadmaps** acknowledge a hard truth: tools evolve, but people must evolve faster. A team that does not grow is a team that decays. Roadmaps are not HR paperwork—they are *investments in judgment*. They ensure your people can wield complexity without being crushed by it. Stagnant skills produce brittle systems.
+**Skill Development Roadmaps** acknowledge a hard truth: tools evolve, but people must evolve faster. A team that does not grow is a team that decays. Roadmaps are not HR paperwork-they are *investments in judgment*. They ensure your people can wield complexity without being crushed by it. Stagnant skills produce brittle systems.
 
 **Structuring Cross-Functional Squads** is about dissolving silos before they harden into walls. A BI team that does not include data engineering, business analysis, and product thinking is not a team—it is a bottleneck factory. Structure for *outcome ownership*, not task handoffs. When the dashboard fails, the squad owns it—not the “DAX person” or the “data guy.”
 
