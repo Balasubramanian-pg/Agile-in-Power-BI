@@ -244,7 +244,7 @@ Ethical measurement respects the complexity behind the number.
 <details><summary><strong>3.2 Rejecting Simplistic Targets</strong></summary>
 
 Rigid numeric targets create unethical pressure.
-Targets must be adaptive, reflective, and informed by historical patterns—not arbitrary mandates.
+Targets must be adaptive, reflective, and informed by historical patterns-not arbitrary mandates.
 
 Teams must avoid:
 
