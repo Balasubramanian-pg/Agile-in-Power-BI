@@ -35,7 +35,7 @@ When done right, it produces alignment without micromanagement; when done poorly
 
 * Setting clear boundaries: goals, time-boxes, and definitions of done.
 * Letting the team decide *how* to meet those goals.
-* Managers shifting from instruction to coaching — asking, not telling.
+* Managers shifting from instruction to coaching - asking, not telling.
 
 Self-organizing teams are not left alone; they are trusted to think. Management’s role is not to drive the car, but to keep the road clear.
 
