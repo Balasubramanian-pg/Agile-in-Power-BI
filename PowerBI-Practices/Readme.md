@@ -7,7 +7,7 @@ You are not here to build pretty charts. You are here to *institutionalize truth
 
 Power BI is not a reporting tool. It is a **system of sense-making**-a nervous system for the modern organization. But like any nervous system, it can be poisoned by noise, clogged by technical debt, or paralyzed by ambiguity.  
 
-This repository is a response to that danger. It is a collection of **practices, not prescriptions**—hard-won lessons from teams who have stared into the abyss of dashboard chaos and chosen, instead, to build with discipline.  
+This repository is a response to that danger. It is a collection of **practices, not prescriptions**-hard-won lessons from teams who have stared into the abyss of dashboard chaos and chosen, instead, to build with discipline.  
 
 The documents within are grouped into four pillars:  
 1. **Agile Practices BI** — *How to run sprints that deliver real insight, not just pixels.*  
