@@ -1,7 +1,7 @@
 # The Architecture of Order in Agile Business Intelligence
 *-A Chapter in the Discipline of Clarity*
 
-Before you lies not a mere checklist of technical concerns, nor a dry inventory of Power BI features—but a realistic roadmap of topic that I wished I had when I started, where chaos meets competence in the pursuit of truth through data.
+Before you lies not a mere checklist of technical concerns, nor a dry inventory of Power BI features-but a realistic roadmap of topic that I wished I had when I started, where chaos meets competence in the pursuit of truth through data.
 
 Modern organizations drown not in data, but in *undisciplined data*. They accumulate dashboards like hoarders collect newspapers—each one a hopeful promise of insight, yet collectively a monument to confusion, contradiction, and decay. 
 
