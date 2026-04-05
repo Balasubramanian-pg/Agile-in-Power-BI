@@ -23,7 +23,7 @@ Consider **Role-Based Access and Gateway Configuration**. This is not about fire
 
 **Coaching Teams on Agile** is not cheerleading. It is *cultivating mindset*. It is teaching that Agile is not a timeline, but a *stance toward uncertainty*. It is fostering psychological safety so that data quality issues are raised, not hidden. It is replacing “That’s not my job” with “How can we fix this together?” Coaching is the soil in which high-performing teams grow.
 
-**Automating Regression Testing** is the final bulwark against entropy. Manual validation is hope. Automated testing is *proof*. Every untested change is a gamble with other people’s decisions. Regression tests are not scripts—they are *promises*. Promises that today’s change did not break yesterday’s truth. To skip them is to say: *“I trust luck more than I trust my craft.”*
+**Automating Regression Testing** is the final bulwark against entropy. Manual validation is hope. Automated testing is *proof*. Every untested change is a gamble with other people’s decisions. Regression tests are not scripts-they are *promises*. Promises that today’s change did not break yesterday’s truth. To skip them is to say: *“I trust luck more than I trust my craft.”*
 
 These files, then, are not about managing BI. They are about *stewarding truth in a complex world*. They demand that you build not just with skill, but with conscience. That you move fast—but never carelessly. That you deliver not just data, but *understanding*.
 
