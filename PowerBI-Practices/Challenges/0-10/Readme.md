@@ -23,6 +23,6 @@ Consider **Managing Data Access Bottlenecks**. This is not about waiting for dat
 
 These nine files, then, are not about managing Power BI. They are about *building a system worthy of trust*. They demand that you treat data not as a commodity, but as a covenant. That you move iteratively, but never carelessly. That you automate not to replace judgment, but to *amplify it*.
 
-For in the end, your data model is not a technical artifact. It is the *skeleton of your organization’s understanding of reality*. Build it with care. Build it with discipline. Build it so that when the storm comes-and it will—your house does not fall.
+For in the end, your data model is not a technical artifact. It is the *skeleton of your organization’s understanding of reality*. Build it with care. Build it with discipline. Build it so that when the storm comes-and it will-your house does not fall.
 
 Because the alternative is not just technical debt. It is epistemological collapse. And no sprint velocity can outrun that.
