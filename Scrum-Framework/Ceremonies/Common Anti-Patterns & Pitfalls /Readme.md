@@ -26,7 +26,7 @@ Agile without engagement is just choreography.
 Efficiency can become self-deception. Teams skip **Planning** because “we already know the work.” They merge **Review** and **Retrospective** because “everyone’s busy.”
 In truth, they’re trading clarity for convenience.
 
-Planning defines direction. Review invites accountability. Retrospective drives improvement. When you collapse them, you lose separation of purpose — and soon, insight.
+Planning defines direction. Review invites accountability. Retrospective drives improvement. When you collapse them, you lose separation of purpose - and soon, insight.
 
 A team that skips ceremonies isn’t saving time; it’s saving effort at the cost of coherence.
 
