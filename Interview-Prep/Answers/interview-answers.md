@@ -222,7 +222,7 @@ The key is that quality activities are part of the sprint plan, not afterthought
 ## Common Pitfalls to Avoid
 
 ❌ **Don't say:** "Agile means we don't need documentation."
-✅ **Do say:** "Agile values working software over comprehensive documentation, so we document what adds value—like data lineage and DAX measure logic—but we don't create documentation for its own sake."
+✅ **Do say:** "Agile values working software over comprehensive documentation, so we document what adds value-like data lineage and DAX measure logic—but we don't create documentation for its own sake."
 
 ❌ **Don't say:** "We just do whatever stakeholders ask."
 ✅ **Do say:** "We collaborate with stakeholders to prioritize requests based on business value and feasibility."
