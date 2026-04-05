@@ -59,7 +59,7 @@ Both roles serve agility, but at different altitudes.
 * Focus: *Organizational transformation and cultural alignment.*
 * Responsibilities: Design Agile adoption strategy, train leadership, integrate Agile with portfolio management.
 * Scope: Multiple teams or departments.
-* Time horizon: Long-term — building systems that sustain agility beyond any one project.
+* Time horizon: Long-term - building systems that sustain agility beyond any one project.
 
 Think of the Scrum Master as the conductor of a small ensemble and the Agile Coach as the architect of the entire orchestra’s rhythm.
 
