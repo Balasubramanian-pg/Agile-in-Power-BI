@@ -47,7 +47,7 @@ A team that is trusted delivers faster; a team that is directed delivers less. A
 
 ## Closing Reflection
 
-Scrum roles are not titles — they are disciplines.
+Scrum roles are not titles - they are disciplines.
 The Product Owner drives purpose. The Scrum Master protects flow. The Developers create value.
 
 Together, they form a triangle of balance — vision, process, and execution — each keeping the others honest.
