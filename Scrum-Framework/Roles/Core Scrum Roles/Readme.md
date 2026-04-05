@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Scrum is built on balance — between authority and autonomy, vision and execution, structure and freedom.
+Scrum is built on balance - between authority and autonomy, vision and execution, structure and freedom.
 The framework stands on three roles, each distinct yet interdependent: the **Product Owner**, the **Scrum Master**, and the **Development Team**.
 When each performs its role with discipline and respect, the system operates with purpose. When any overreaches, the system collapses into control or confusion.
 
