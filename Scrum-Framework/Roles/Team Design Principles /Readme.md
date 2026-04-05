@@ -51,7 +51,7 @@ Part-time members or constant context switching drain velocity, increase rework,
 * Burnout masked as “multitasking.”
 
 **Principle:**
-If a person is on a team, they should *belong* to that team — mentally, temporally, and emotionally.
+If a person is on a team, they should *belong* to that team - mentally, temporally, and emotionally.
 Commitment is the true multiplier of productivity.
 
 ## Closing Reflection
