@@ -33,7 +33,7 @@ At sprint end, we'd demo working dashboards to stakeholders, not just slides. Th
 ### "How do you prioritize what to build first in a new Power BI project?"
 
 **Strong Answer:**
-"I use a combination of business impact and technical dependency to guide prioritization. First, I collaborate with the Product Owner and key stakeholders to identify the highest-value metrics—usually those tied to KPIs that drive immediate decisions. For example, in a recent supply chain project, 'current inventory levels by location' was more critical than 'historical trend analysis' because teams needed real-time operational data first.
+"I use a combination of business impact and technical dependency to guide prioritization. First, I collaborate with the Product Owner and key stakeholders to identify the highest-value metrics-usually those tied to KPIs that drive immediate decisions. For example, in a recent supply chain project, 'current inventory levels by location' was more critical than 'historical trend analysis' because teams needed real-time operational data first.
 
 Second, I consider technical foundations. Sometimes you need to build core data models before you can deliver any value, so I advocate for minimal viable data models that support the priority metrics. I also use the MoSCoW method (Must have, Should have, Could have, Won't have) in backlog refinement sessions to help stakeholders make trade-off decisions explicit. The goal is to deliver something valuable in the first sprint, even if it's simple."
 
