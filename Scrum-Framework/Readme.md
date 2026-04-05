@@ -51,7 +51,7 @@ Metrics reveal whether a team is aligned with reality or lost in illusion. They 
 5. **Team & Process Effectiveness** – Measuring maturity, not motion.
 6. **Anti-Patterns & Ethical Measurement** – Guardrails against vanity and distortion.
 
-Measurement is moral. It demands honesty, restraint, and reflection — or it becomes a weapon.
+Measurement is moral. It demands honesty, restraint, and reflection - or it becomes a weapon.
 
 ## Roles
 
