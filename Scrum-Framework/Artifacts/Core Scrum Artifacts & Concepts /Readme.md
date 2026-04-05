@@ -47,4 +47,4 @@ A team without a Product Goal is busy, not productive.
 These five artifacts form the **moral architecture of Agile practice**. They are not paperwork; they are promises. They protect clarity, foster trust, and ensure that progress is not illusion.
 
 Treat them with respect. Keep them updated. Challenge them often.
-Because in the end, Agile isn’t about speed — it’s about truth.
+Because in the end, Agile isn’t about speed - it’s about truth.
