@@ -36,7 +36,7 @@ Each story should decompose into technical subtasks - modeling data, writing DAX
 The purpose is not control, but **visibility**: seeing what must happen for value to appear.
 
 **Estimation** converts ambition into accountability. It forces conversation about complexity, dependencies, and risk.
-**Assignment** follows naturally from clarity, not authority — each member chooses what they can own, and ownership becomes pride.
+**Assignment** follows naturally from clarity, not authority - each member chooses what they can own, and ownership becomes pride.
 
 ## Closing Reflection
 
