@@ -38,4 +38,4 @@ When success is collective, failure is shared - and learning accelerates.
 Culture is the invisible architecture of every sprint.
 Safety allows honesty. Honesty enables ownership. Ownership produces excellence.
 
-When teams speak truthfully, adapt freely, and succeed together, Agile ceases to be a framework — it becomes **a way of working that respects both people and purpose.**
+When teams speak truthfully, adapt freely, and succeed together, Agile ceases to be a framework - it becomes **a way of working that respects both people and purpose.**
