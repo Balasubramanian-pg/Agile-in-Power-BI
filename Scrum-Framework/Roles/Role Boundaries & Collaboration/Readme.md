@@ -57,4 +57,4 @@ When “done” means the same thing to everyone, the team moves as one.
 Clear boundaries create strong collaboration.
 The Product Owner sets direction, the Scrum Master maintains rhythm, and the Developers make it real.
 
-When each role honors its lane while serving the collective goal, agility stops being fragile — it becomes **coherence in motion**.
+When each role honors its lane while serving the collective goal, agility stops being fragile - it becomes **coherence in motion**.
