@@ -74,7 +74,7 @@ It requires you to:
 - **Document clearly enough to outlive your tenure.**  
 - **Test rigorously enough to earn trust.**  
 
-This is not easy work. It demands more than technical skill—it demands **moral clarity**.  
+This is not easy work. It demands more than technical skill-it demands **moral clarity**.  
 
 For when the CEO makes a $100M decision based on your dashboard, they are not trusting your DAX.  
 They are trusting *you*.  
