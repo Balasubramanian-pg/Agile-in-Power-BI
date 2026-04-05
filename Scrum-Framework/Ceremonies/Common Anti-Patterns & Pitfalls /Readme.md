@@ -42,7 +42,7 @@ If a manager leaves a stand-up knowing who to blame instead of what to unblock, 
 
 ## Closing Reflection
 
-Every Agile anti-pattern begins with a noble intention — to save time, to improve control, to stay efficient. But efficiency without reflection breeds decay.
+Every Agile anti-pattern begins with a noble intention - to save time, to improve control, to stay efficient. But efficiency without reflection breeds decay.
 
 Ritual must serve meaning.
 Ceremony must serve truth.
