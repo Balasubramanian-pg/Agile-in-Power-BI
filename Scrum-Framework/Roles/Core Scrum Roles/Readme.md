@@ -31,7 +31,7 @@ They don’t manage people; they nurture the environment where people can manage
 * **Impediment Removal:** Identify and eliminate anything that slows progress, from unclear data sources to cultural resistance.
 * **Process Stewardship:** Protect the integrity of Scrum against shortcuts and bureaucracy alike.
 
-The servant leader asks, *“What does the team need to succeed?”* — and then quietly clears the path.
+The servant leader asks, *“What does the team need to succeed?”* - and then quietly clears the path.
 
 ## Development Team Composition & Autonomy
 
