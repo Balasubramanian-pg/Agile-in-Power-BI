@@ -38,7 +38,7 @@ Distributed agility thrives when presence is redefined - less about physical pro
 
 In healthy Agile organizations, roles **mature rather than multiply**.
 
-* The **Product Owner** evolves from a backlog manager to a *strategic storyteller* — connecting customer insight to product vision.
+* The **Product Owner** evolves from a backlog manager to a *strategic storyteller* - connecting customer insight to product vision.
 * The **Scrum Master** grows from facilitator to *organizational coach* — shaping culture, not just process.
 * The **Developer** matures from implementer to *co-creator* — balancing technical excellence with business empathy.
 
