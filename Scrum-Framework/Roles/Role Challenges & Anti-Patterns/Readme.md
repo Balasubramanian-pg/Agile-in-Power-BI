@@ -56,7 +56,7 @@ Velocity looks fine on paper, but flow collapses when any single specialist is u
 **Remedy:**
 
 * Foster *skill overlap*: pair programming, peer reviews, documentation of recurring tasks.
-* Rotate roles occasionally — let developers write tests, let analysts build small visuals.
+* Rotate roles occasionally - let developers write tests, let analysts build small visuals.
 * Value learning capacity over title protection.
 
 A truly cross-functional team isn’t one where everyone does everything; it’s one where nothing stops because one person is missing.
