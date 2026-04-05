@@ -102,7 +102,7 @@ The attrition dashboard was delivered on time and helped leadership make retenti
 
 **Definition of Ready:** We established criteria-every user story needs a clear business objective, acceptance criteria, and sample data/mockups before we pull it into a sprint. This prevents half-baked requirements from consuming sprint time.
 
-**Collaborative Prioritization:** In backlog refinement, I facilitate discussions about trade-offs. I'll ask questions like 'If we build the cost analysis first, Finance can make Q2 budget decisions, but Sales pipeline reporting waits three weeks—what's the business impact?'
+**Collaborative Prioritization:** In backlog refinement, I facilitate discussions about trade-offs. I'll ask questions like 'If we build the cost analysis first, Finance can make Q2 budget decisions, but Sales pipeline reporting waits three weeks-what's the business impact?'
 
 **Regular Demos:** Sprint reviews with all stakeholders create shared understanding. When the Finance Director sees the pipeline reporting demo, they often appreciate why it was prioritized, reducing friction.
 
