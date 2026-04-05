@@ -41,7 +41,7 @@ Micromanagement destroys ownership. True accountability emerges when the team’
 ## Shared Understanding of “Done”
 
 The **Definition of Done (DoD)** is the contract that unites every role.
-It defines quality, completeness, and releasability — removing ambiguity about when work is truly finished.
+It defines quality, completeness, and releasability - removing ambiguity about when work is truly finished.
 
 **All roles contribute:**
 
