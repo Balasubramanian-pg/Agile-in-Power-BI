@@ -228,7 +228,7 @@ The key is that quality activities are part of the sprint plan, not afterthought
 ✅ **Do say:** "We collaborate with stakeholders to prioritize requests based on business value and feasibility."
 
 ❌ **Don't say:** "Sprints are too short for BI work."
-✅ **Do say:** "We break down BI work into valuable increments—even large data warehouses can deliver working subsets sprint by sprint."
+✅ **Do say:** "We break down BI work into valuable increments-even large data warehouses can deliver working subsets sprint by sprint."
 
 ❌ **Don't say:** "I just follow the process."
 ✅ **Do say:** "I actively contribute to improving our processes through retrospectives and by suggesting data-driven improvements."
