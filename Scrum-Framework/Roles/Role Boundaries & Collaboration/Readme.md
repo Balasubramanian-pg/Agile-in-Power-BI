@@ -8,7 +8,7 @@ Clarity is not rigidity; it’s the structure that allows collaboration to stay 
 
 ## PO vs. SM: Clear Distinctions
 
-The **Product Owner** defines *what* brings value. The **Scrum Master** ensures *how* it’s delivered is sustainable. They are two sides of one system — value and velocity.
+The **Product Owner** defines *what* brings value. The **Scrum Master** ensures *how* it’s delivered is sustainable. They are two sides of one system - value and velocity.
 
 **Product Owner:**
 
