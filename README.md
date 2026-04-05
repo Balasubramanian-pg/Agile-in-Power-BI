@@ -100,7 +100,7 @@ Repository Structure
 
 #### **metrics-measures.md**
 **Truth:** Metrics are not vanity. They are **signals of discipline**.
-- **Velocity:** Not a goal—**a diagnostic**.
+- **Velocity:** Not a goal-**a diagnostic**.
 - **Burndown Chart:** The **mirror of progress**.
 - **Lead Time/Cycle Time:** How fast can we **deliver truth**?
 
