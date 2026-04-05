@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Scrum is not merely a process for software delivery; it is a system of **moral and structural discipline**. It transforms chaos into coherence through rhythm, boundaries, and clarity of purpose. Its artifacts, ceremonies, metrics, and roles form a single architecture of accountability — each part dependent on the integrity of the others.
+Scrum is not merely a process for software delivery; it is a system of **moral and structural discipline**. It transforms chaos into coherence through rhythm, boundaries, and clarity of purpose. Its artifacts, ceremonies, metrics, and roles form a single architecture of accountability - each part dependent on the integrity of the others.
 
 When practiced correctly, Scrum does not just improve output; it **teaches responsibility**. It demands that individuals confront ambiguity with structure, that teams face failure with honesty, and that organizations trade control for trust.
 
