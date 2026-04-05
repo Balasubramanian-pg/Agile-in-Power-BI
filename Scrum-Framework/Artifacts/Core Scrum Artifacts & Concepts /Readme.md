@@ -23,7 +23,7 @@ This artifact teaches restraint. You cannot do everything. So, choose carefully 
 ## 1.3 Increment
 
 The Increment is the **truth revealed**. It is the working output that proves your process has meaning.
-All discussion, estimation, and ceremony culminate here — a published Power BI report, a working dashboard, a refreshed dataset that tells the story of progress.
+All discussion, estimation, and ceremony culminate here - a published Power BI report, a working dashboard, a refreshed dataset that tells the story of progress.
 
 If the Increment doesn’t exist, the rest is performance. It is not talk, but evidence, that makes you credible.
 
