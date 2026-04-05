@@ -12,7 +12,7 @@ Psychological safety is the **soil where improvement grows**. Without it, retros
 
 To build safety:
 
-* The **Scrum Master** sets the tone — curiosity over criticism, questions over commands.
+* The **Scrum Master** sets the tone - curiosity over criticism, questions over commands.
 * The **Product Owner** invites dissent, especially when backlog priorities or deadlines are challenged.
 * The **Developers** own their voice — raising blockers, admitting uncertainty, and proposing change without fear of judgment.
 
