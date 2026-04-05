@@ -21,7 +21,7 @@ The Product Owner’s job is not to dictate tasks but to clarify value. When the
 
 ## Scrum Master (SM) as Servant Leader
 
-The **Scrum Master** is the keeper of the process — a leader through service, not command.
+The **Scrum Master** is the keeper of the process - a leader through service, not command.
 They don’t manage people; they nurture the environment where people can manage themselves.
 
 **Responsibilities:**
