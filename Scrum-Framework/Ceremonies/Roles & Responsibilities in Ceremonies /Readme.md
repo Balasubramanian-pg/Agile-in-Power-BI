@@ -3,7 +3,7 @@
 ## Introduction
 
 Agile ceremonies only work when responsibility is owned, not assigned.
-Each role — Product Owner, Scrum Master, Developer — holds a different piece of the truth. Together, they keep the team grounded in reality: one defines *why*, one protects *how*, and one delivers *what*.
+Each role - Product Owner, Scrum Master, Developer — holds a different piece of the truth. Together, they keep the team grounded in reality: one defines *why*, one protects *how*, and one delivers *what*.
 Confusion of roles breeds chaos; clarity of ownership builds rhythm and trust.
 
 ## Product Owner’s Role in Each Ceremony
