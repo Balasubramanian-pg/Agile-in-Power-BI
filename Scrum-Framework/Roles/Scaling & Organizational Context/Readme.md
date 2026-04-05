@@ -42,7 +42,7 @@ In healthy Agile organizations, roles **mature rather than multiply**.
 * The **Scrum Master** grows from facilitator to *organizational coach* - shaping culture, not just process.
 * The **Developer** matures from implementer to *co-creator* - balancing technical excellence with business empathy.
 
-Growth in Agile is vertical in depth, not horizontal in titles. The measure of maturity is not seniority — it’s the team’s ability to self-correct without supervision.
+Growth in Agile is vertical in depth, not horizontal in titles. The measure of maturity is not seniority - it’s the team’s ability to self-correct without supervision.
 
 ## Closing Reflection
 
