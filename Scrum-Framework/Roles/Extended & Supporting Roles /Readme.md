@@ -10,7 +10,7 @@ Supporting roles are not side characters. They are amplifiers of value when they
 ## Stakeholder Engagement in Agile
 
 Stakeholders are **participants in value**, not spectators of progress.
-Their role is to inform, challenge, and refine — not to micromanage.
+Their role is to inform, challenge, and refine - not to micromanage.
 
 **When and how they engage:**
 
