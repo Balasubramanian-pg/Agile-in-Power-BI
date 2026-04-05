@@ -20,7 +20,7 @@ Their role is to inform, challenge, and refine - not to micromanage.
 
 **Managing expectations:**
 
-* Communicate the rhythm — stakeholders should know *when* they’ll be heard.
+* Communicate the rhythm - stakeholders should know *when* they’ll be heard.
 * Educate them that Agile isn’t about endless flexibility, but structured responsiveness.
 * Translate technical outcomes into business language they can act on.
 
