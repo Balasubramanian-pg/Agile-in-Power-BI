@@ -79,7 +79,7 @@ Their success depends on self-organization, accountability, and discipline.
 
 * Take responsibility for improvement. The ceremony is useless without ownership of action.
 
-A high-functioning development team doesn’t wait for permission — it adjusts, learns, and delivers together.
+A high-functioning development team doesn’t wait for permission - it adjusts, learns, and delivers together.
 
 ## Closing Reflection
 
