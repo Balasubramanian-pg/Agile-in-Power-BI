@@ -101,7 +101,7 @@ This is the work of **stewardship**, not just development.
 This is a living repository. If a practice has served you well:  
 1. **Add it** in the relevant section.  
 2. **Link it** to related challenges.  
-3. **Explain not just *how*, but *why***—the principle behind the practice.  
+3. **Explain not just *how*, but *why***-the principle behind the practice.  
 
 Avoid opinion. Favor evidence.  
 
