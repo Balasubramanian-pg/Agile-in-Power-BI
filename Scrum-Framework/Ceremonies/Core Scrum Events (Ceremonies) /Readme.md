@@ -89,7 +89,7 @@ Where the Review looks outward, the Retrospective looks inward.
 * *5 Whys* - trace recurring pain points to their roots.
 
 **Psychological Safety:**
-Teams only improve when truth can be spoken. The Scrum Master must cultivate trust — no blame, no posturing.
+Teams only improve when truth can be spoken. The Scrum Master must cultivate trust - no blame, no posturing.
 
 **Action Follow-through:**
 Each insight becomes a measurable improvement, tracked in the next sprint. Reflection without execution is theater.
