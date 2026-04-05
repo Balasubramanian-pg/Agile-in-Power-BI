@@ -3,7 +3,7 @@
 ## Introduction
 
 Speed without structure collapses. A product that scales without conscience decays.
-Quality and sustainability are not opposing forces to delivery — they are what **make delivery endure**. The Agile mindset demands that we deliver frequently, but not recklessly; improve constantly, but not endlessly.
+Quality and sustainability are not opposing forces to delivery - they are what **make delivery endure**. The Agile mindset demands that we deliver frequently, but not recklessly; improve constantly, but not endlessly.
 
 Every sprint leaves residue — choices deferred, shortcuts made, lessons half-learned. These are not sins, but debts, and like all debts, they must be managed with discipline.
 
