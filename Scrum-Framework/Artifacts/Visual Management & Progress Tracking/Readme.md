@@ -17,7 +17,7 @@ Its power lies in its simplicity - a visible flow of work from *To Do* to *Done*
 * **Swimlanes:** Group work by priority or story.
 * **WIP Limits:** Cap how many tasks can be “In Progress.” Constraint breeds focus.
 
-Each card represents a promise. When too many pile up in progress, it signals diffusion of effort — the quiet decay of discipline.
+Each card represents a promise. When too many pile up in progress, it signals diffusion of effort - the quiet decay of discipline.
 The board is a conversation starter, not a status board. Gather around it. Adjust it daily. Let it tell the truth.
 
 ## Burndown Chart
