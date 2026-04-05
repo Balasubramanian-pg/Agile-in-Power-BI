@@ -32,7 +32,7 @@ Agile-in-Power-BI/
 
 
 ## Repository Structure
-This repository is organized to **clarify, not complicate**. Each file is a **deliberate step** toward understanding how Agile principles **manifest in Power BI**—and how to articulate that understanding in interviews.
+This repository is organized to **clarify, not complicate**. Each file is a **deliberate step** toward understanding how Agile principles **manifest in Power BI**-and how to articulate that understanding in interviews.
 
 
 Repository Structure
