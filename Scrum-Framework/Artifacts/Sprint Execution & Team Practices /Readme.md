@@ -32,7 +32,7 @@ That statement guides design, scope, and trade-offs. It unites the team under on
 
 Breaking work down is an act of realism. User stories describe intent; tasks describe action.
 
-Each story should decompose into technical subtasks — modeling data, writing DAX, creating visuals, setting up refreshes, testing results.
+Each story should decompose into technical subtasks - modeling data, writing DAX, creating visuals, setting up refreshes, testing results.
 The purpose is not control, but **visibility**: seeing what must happen for value to appear.
 
 **Estimation** converts ambition into accountability. It forces conversation about complexity, dependencies, and risk.
