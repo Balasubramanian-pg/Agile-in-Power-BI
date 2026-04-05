@@ -22,7 +22,7 @@ Maintaining presence across geography requires deliberate design.
 
 **For Product Owners:**
 
-* Stay visible through asynchronous updates — short videos, backlog notes, or mini-demos.
+* Stay visible through asynchronous updates - short videos, backlog notes, or mini-demos.
 * Rotate meeting times to share the inconvenience fairly.
 * Reinforce priorities in writing, not assumption.
 
