@@ -13,7 +13,7 @@ The **Product Owner (PO)** is the steward of value. Their duty is not just to ma
 **Sprint Planning**
 
 * Comes prepared with a refined, prioritized backlog.
-* Clarifies intent — *why* each story matters to the product goal.
+* Clarifies intent - *why* each story matters to the product goal.
 * Collaborates with developers to define what’s feasible for the sprint.
 
 **Daily Scrum**
