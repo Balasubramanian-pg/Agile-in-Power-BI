@@ -3,7 +3,7 @@
 ## Introduction
 
 Agile roles are meant to distribute clarity, not confusion. Yet, in most teams, roles are the first thing to warp under pressure.
-When boundaries blur and accountability drifts, the process becomes theater — titles without ownership, ceremonies without purpose.
+When boundaries blur and accountability drifts, the process becomes theater - titles without ownership, ceremonies without purpose.
 Understanding the anti-patterns is how teams defend the integrity of their craft.
 
 ## Proxy Product Owner
