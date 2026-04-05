@@ -193,7 +193,7 @@ Metrics serve reality; they cannot replace it.
 
 <details><summary><strong>2.3 Measuring Impact, Not Activity</strong></summary>
 
-Activity metrics—task count, hours logged, number of visuals—create false narratives of productivity.
+Activity metrics-task count, hours logged, number of visuals—create false narratives of productivity.
 Impact metrics reveal whether the solution is useful, accurate, and stable.
 
 Impact includes:
