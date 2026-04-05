@@ -222,7 +222,7 @@ Avoiding punishment for long cycle times
 Recognizing complexity rather than oversimplifying it
 Interpreting trends, not isolated numbers
 
-Time metrics reveal patterns—not performance worth.
+Time metrics reveal patterns-not performance worth.
 
 </details>
 
