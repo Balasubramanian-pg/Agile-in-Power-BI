@@ -46,7 +46,7 @@ Growth in Agile is vertical in depth, not horizontal in titles. The measure of m
 
 ## Closing Reflection
 
-Scaling Agile isn’t about control — it’s about coordination without losing humanity.
+Scaling Agile isn’t about control - it’s about coordination without losing humanity.
 Roles must evolve, not harden. Teams must expand, not fracture.
 
 At its best, a scaled Agile organization feels like one large, breathing system — hundreds of people, one shared rhythm, bound by trust and truth.
