@@ -63,7 +63,7 @@ A truly cross-functional team isn’t one where everyone does everything; it’s
 
 ## Closing Reflection
 
-Role challenges are rarely about people — they’re about courage and clarity.
+Role challenges are rarely about people - they’re about courage and clarity.
 It’s easier to act like a proxy than to demand vision, easier to coordinate than to coach, easier to specialize than to share.
 
 But Agile’s strength lies in collective ownership — every role distinct, yet deeply interdependent.
