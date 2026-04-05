@@ -106,7 +106,7 @@ Each insight becomes a measurable improvement, tracked in the next sprint. Refle
 **Protection:**
 The Sprint is a sanctuary for focus. No external interruptions, no mid-sprint goal changes without team consent.
 
-Each sprint is a miniature experiment in delivering value — bounded by time, measured by outcome, and refined by reflection.
+Each sprint is a miniature experiment in delivering value - bounded by time, measured by outcome, and refined by reflection.
 
 ## Closing Reflection
 
