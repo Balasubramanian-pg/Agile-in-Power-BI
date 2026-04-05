@@ -131,7 +131,7 @@ The attrition dashboard was delivered on time and helped leadership make retenti
 
 **Automated Testing:** Where possible, I use Power BI's performance analyzer and create simple scripts that check for expected row counts in staging tables to catch data pipeline issues.
 
-**Reserved Buffer:** I estimate conservatively—if I think something takes 3 days, I say 4. This gives me time for quality checks without rushing.
+**Reserved Buffer:** I estimate conservatively-if I think something takes 3 days, I say 4. This gives me time for quality checks without rushing.
 
 The key is that quality activities are part of the sprint plan, not afterthoughts."
 
