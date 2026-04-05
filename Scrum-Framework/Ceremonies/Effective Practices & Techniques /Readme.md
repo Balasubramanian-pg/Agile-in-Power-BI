@@ -3,7 +3,7 @@
 ## Introduction
 
 Agile is simple to learn and hard to live.
-The difference between a team that goes through sprints and one that actually *improves* lies in practice — the quiet, disciplined acts that turn ideas into habits.
+The difference between a team that goes through sprints and one that actually *improves* lies in practice - the quiet, disciplined acts that turn ideas into habits.
 Ceremonies give rhythm. Techniques give precision. Without both, effort dissipates into motion.
 
 ## Writing Effective Sprint Goals
