@@ -39,7 +39,7 @@ The **Development Team** transforms vision into working increments. Their streng
 
 **Principles:**
 
-* **Cross-Functional:** Every skill needed to deliver a working product exists within the team — no dependencies, no handoffs.
+* **Cross-Functional:** Every skill needed to deliver a working product exists within the team - no dependencies, no handoffs.
 * **Self-Organizing:** The team decides *how* to do the work, within the boundaries of the Sprint Goal.
 * **Collective Ownership:** Success or failure belongs to everyone. There is no “my part,” only “our increment.”
 
