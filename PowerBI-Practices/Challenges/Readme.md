@@ -72,4 +72,4 @@ Do not skip the hard parts. Do not say, “We’ll handle governance later.” L
 
 Start here. Start now. Build your house on rock.
 
-This structure helps organizations address challenges systematically—whether they’re improving data engineering (Data), accelerating insights (Performance), maturing Agile delivery (Process), upskilling talent (Team), or building scalable operations (Tooling & Governance).
+This structure helps organizations address challenges systematically-whether they’re improving data engineering (Data), accelerating insights (Performance), maturing Agile delivery (Process), upskilling talent (Team), or building scalable operations (Tooling & Governance).
