@@ -27,7 +27,7 @@ Frameworks like MoSCoW are not bureaucracy; they are language for collective rea
 
 ## On Collaboration
 
-Every Agile ceremony - stand-up, review, retrospective — exists to keep people aligned with truth. You speak not to report, but to reveal. You review not to impress, but to learn.
+Every Agile ceremony - stand-up, review, retrospective - exists to keep people aligned with truth. You speak not to report, but to reveal. You review not to impress, but to learn.
 
 In the Power BI world, collaboration is not optional. The Product Owner brings intent, the Developer brings form, and the Scrum Master removes the friction between the two. Together, they maintain the rhythm that keeps the project alive.
 
