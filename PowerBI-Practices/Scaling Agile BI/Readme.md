@@ -46,7 +46,7 @@ Agile without rhythm is chaos. Process is not red tape-it is the **scaffolding t
 
 ### **4. Roles and Organizational Design: The Structure of Accountability**  
 
-People are not resources. They are **bearers of responsibility**. Your org design either cultivates ownership—or diffuses it into oblivion.  
+People are not resources. They are **bearers of responsibility**. Your org design either cultivates ownership-or diffuses it into oblivion.  
 
 - **BI Center of Excellence (CoE) operating model** must choose: Will you be a *gatekeeper* who blocks, or an *enabler* who elevates? The former breeds shadow IT; the latter builds capability.  
 - **Role of Data Product Managers in BI** is to own the *outcome*, not the output. They answer: *“Did this dashboard improve a decision?”*—not just, “Was it delivered?”  
