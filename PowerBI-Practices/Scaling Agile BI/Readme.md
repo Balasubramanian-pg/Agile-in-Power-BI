@@ -37,7 +37,7 @@ A dashboard is ephemeral. A **semantic model** is legacy. Build carelessly, and 
 Agile without rhythm is chaos. Process is not red tape-it is the **scaffolding that allows complex teams to move as one**.  
 
 - **Agile backlog management for BI teams** forces prioritization by *outcome*, not volume. It asks: *“Which insight, if delivered, would change the course of the business?”*  
-- **Designing value streams for analytics** reveals the hidden cost of handoffs, waits, and rework. It demands you optimize the *entire flow*-from question to decision—not just your local task.  
+- **Designing value streams for analytics** reveals the hidden cost of handoffs, waits, and rework. It demands you optimize the *entire flow*-from question to decision-not just your local task.  
 - **BI portfolio prioritization frameworks** are your shield against the tyranny of the urgent. They inject objectivity into the emotional fog of stakeholder demands.  
 - **Metrics for measuring BI team agility** must reflect *real outcomes*: How fast do we deliver validated truth? How often do we break production? Not: How many stories did we burn?  
 - **Managing dependencies across BI and data engineering** is the art of synchronization. It recognizes that no team is an island—and builds bridges before the storm hits.  
