@@ -83,7 +83,7 @@ But in the long term, it will save you from:
 ### **Philosophical Foundation**
 
 > *"Tell me how you measure me, and I will tell you how I will behave."*  
-> — Eliyahu Goldratt
+> - Eliyahu Goldratt
 
 In BI, if you measure only **dashboards delivered**, you will get dashboards—many of them wrong.  
 If you measure **decisions improved**, you will get systems designed for truth.  
