@@ -22,7 +22,7 @@ The **Product Owner (PO)** is the steward of value. Their duty is not just to ma
 
 **Sprint Review**
 
-* Presents the vision — what the increment achieves and where the product goes next.
+* Presents the vision - what the increment achieves and where the product goes next.
 * Gathers feedback, reprioritizes backlog items, and updates stakeholders on what was learned.
 
 **Retrospective**
