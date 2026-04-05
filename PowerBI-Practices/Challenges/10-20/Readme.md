@@ -11,7 +11,7 @@ Consider **Role-Based Access and Gateway Configuration**. This is not about fire
 
 **Handling Ad-Hoc Requests Without Breaking Sprints** is a test of discipline versus desperation. The “quick ask” is the enemy of coherence. Every unvetted request is a crack in the dam. You do not say “no” out of rigidity-you say “not now” out of *respect for the work already committed*. You triage not to reject, but to *protect value*. Chaos disguised as responsiveness is still chaos.
 
-**Faster Feedback Loops** are not about speed—they are about *courage*. It takes courage to show unfinished work. It takes courage to ask: *“Is this what you meant?”* early, when it’s cheap to be wrong. Delayed feedback is a luxury you cannot afford. The longer you wait, the more you invest in being incorrect. Rapid feedback is the antidote to arrogance.
+**Faster Feedback Loops** are not about speed-they are about *courage*. It takes courage to show unfinished work. It takes courage to ask: *“Is this what you meant?”* early, when it’s cheap to be wrong. Delayed feedback is a luxury you cannot afford. The longer you wait, the more you invest in being incorrect. Rapid feedback is the antidote to arrogance.
 
 **Balancing Speed vs. Data Accuracy** is the central tension of modern analytics. Speed without accuracy is sabotage. Accuracy without speed is irrelevance. The balance is not found in compromise, but in *hierarchy*: What is the *minimum viable truth* that enables a decision? Not perfect data. Not fast fiction. But *sufficient truth, delivered in time to matter*. Anything else is theater.
 
