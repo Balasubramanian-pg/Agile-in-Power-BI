@@ -39,7 +39,7 @@ Distributed agility thrives when presence is redefined - less about physical pro
 In healthy Agile organizations, roles **mature rather than multiply**.
 
 * The **Product Owner** evolves from a backlog manager to a *strategic storyteller* - connecting customer insight to product vision.
-* The **Scrum Master** grows from facilitator to *organizational coach* — shaping culture, not just process.
+* The **Scrum Master** grows from facilitator to *organizational coach* - shaping culture, not just process.
 * The **Developer** matures from implementer to *co-creator* — balancing technical excellence with business empathy.
 
 Growth in Agile is vertical in depth, not horizontal in titles. The measure of maturity is not seniority — it’s the team’s ability to self-correct without supervision.
