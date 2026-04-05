@@ -57,7 +57,7 @@ Commitment is the true multiplier of productivity.
 ## Closing Reflection
 
 A great Agile team is not built by accident.
-It’s crafted — through deliberate structure, mutual respect, and shared clarity.
+It’s crafted - through deliberate structure, mutual respect, and shared clarity.
 
 Cross-functionality gives capability.
 Self-organization gives agency.
