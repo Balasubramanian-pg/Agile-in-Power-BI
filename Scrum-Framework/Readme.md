@@ -10,7 +10,7 @@ Scrum is not a set of rules to follow. It is a culture to uphold.
 
 ## Artifacts
 
-Artifacts are the **evidence of work and the reflection of intent**. They exist to make truth visible. Each artifact — backlog, increment, goal — represents an intersection between vision and execution.
+Artifacts are the **evidence of work and the reflection of intent**. They exist to make truth visible. Each artifact - backlog, increment, goal — represents an intersection between vision and execution.
 
 **Contained Readmes:**
 
