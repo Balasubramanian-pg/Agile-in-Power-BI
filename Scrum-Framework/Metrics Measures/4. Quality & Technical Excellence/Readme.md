@@ -96,7 +96,7 @@ Slow refreshes indicate upstream disorder.
 Lagging visuals indicate inefficient logic.
 Bottlenecked models signal structural imbalance.
 
-Performance is not an afterthought—it is an expression of system health.
+Performance is not an afterthought-it is an expression of system health.
 
 </details>
 
