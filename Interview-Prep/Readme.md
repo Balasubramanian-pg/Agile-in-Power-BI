@@ -36,7 +36,7 @@ In the Power BI world, collaboration is not optional. The Product Owner brings i
 Quality is not a department; it is a mindset. You build it in through naming conventions, tested measures, and documented data models.
 When you define “done,” define it precisely: tested visuals, validated data, reviewed measures, and performance under five seconds. If it fails one of those, it is not done.
 
-Every refresh that runs clean, every visual that tells the truth — that is a moral act. You’re shaping reality from information.
+Every refresh that runs clean, every visual that tells the truth - that is a moral act. You’re shaping reality from information.
 
 ## On Leadership and Growth
 
