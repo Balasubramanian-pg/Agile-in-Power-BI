@@ -25,7 +25,7 @@ Consider **Role-Based Access and Gateway Configuration**. This is not about fire
 
 **Automating Regression Testing** is the final bulwark against entropy. Manual validation is hope. Automated testing is *proof*. Every untested change is a gamble with other people’s decisions. Regression tests are not scripts-they are *promises*. Promises that today’s change did not break yesterday’s truth. To skip them is to say: *“I trust luck more than I trust my craft.”*
 
-These files, then, are not about managing BI. They are about *stewarding truth in a complex world*. They demand that you build not just with skill, but with conscience. That you move fast—but never carelessly. That you deliver not just data, but *understanding*.
+These files, then, are not about managing BI. They are about *stewarding truth in a complex world*. They demand that you build not just with skill, but with conscience. That you move fast-but never carelessly. That you deliver not just data, but *understanding*.
 
 For in the end, your dashboards are not pixels on a screen. They are the lenses through which leaders see reality. Make them clear. Make them honest. Make them worthy of the trust placed in them.
 
