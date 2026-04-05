@@ -29,7 +29,7 @@ The **Product Owner (PO)** is the steward of value. Their duty is not just to ma
 
 * Participates as an equal, not a superior. Reflects on collaboration, backlog health, and communication flow.
 
-The PO’s strength lies in clarity — ensuring the team never loses sight of purpose amid execution.
+The PO’s strength lies in clarity - ensuring the team never loses sight of purpose amid execution.
 
 ## Scrum Master as Facilitator
 
