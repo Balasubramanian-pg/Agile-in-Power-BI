@@ -17,7 +17,7 @@ You know it’s happened when:
 * The retrospective produces identical action items.
 * The sprint review becomes a slideshow instead of a conversation.
 
-The cure is intent. Before every meeting, ask: *What is the value of this gathering today?* If you can’t answer, don’t meet — or redesign the meeting until you can.
+The cure is intent. Before every meeting, ask: *What is the value of this gathering today?* If you can’t answer, don’t meet - or redesign the meeting until you can.
 
 Agile without engagement is just choreography.
 
