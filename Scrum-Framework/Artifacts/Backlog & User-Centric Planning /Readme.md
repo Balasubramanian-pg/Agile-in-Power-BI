@@ -49,7 +49,7 @@ Each method exists to counter the bias of preference. You don’t build what’s
 
 Hierarchy is not bureaucracy; it is **the architecture of focus**.
 
-* **Epics** are strategic goals — the broad narrative.
+* **Epics** are strategic goals - the broad narrative.
 * **Features** are functional pillars that make those goals real.
 * **Stories** are tactical steps, small enough to execute yet meaningful enough to matter.
 
