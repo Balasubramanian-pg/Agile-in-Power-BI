@@ -16,7 +16,7 @@ Every ceremony must tighten its focus without losing intent.
 * **Sprint Review:** Show the Increment. Skip slides, show outcomes. Stakeholders’ feedback must remain immediate.
 * **Retrospective:** Shorter sprints mean more frequent reflection. Make it focused: one improvement, one commitment.
 
-Shorter cycles demand sharper thinking. There’s no room for drift — only deliberate momentum.
+Shorter cycles demand sharper thinking. There’s no room for drift - only deliberate momentum.
 
 ## Ceremonies in Distributed or Remote Teams
 
