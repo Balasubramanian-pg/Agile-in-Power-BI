@@ -3,7 +3,7 @@
 
 Before you lies not a mere checklist of technical concerns, nor a dry inventory of Power BI features-but a realistic roadmap of topic that I wished I had when I started, where chaos meets competence in the pursuit of truth through data.
 
-Modern organizations drown not in data, but in *undisciplined data*. They accumulate dashboards like hoarders collect newspapers—each one a hopeful promise of insight, yet collectively a monument to confusion, contradiction, and decay. 
+Modern organizations drown not in data, but in *undisciplined data*. They accumulate dashboards like hoarders collect newspapers-each one a hopeful promise of insight, yet collectively a monument to confusion, contradiction, and decay. 
 
 The Agile promise—to deliver value iteratively, responsively, and collaboratively—too often collapses under the weight of unspoken assumptions, unexamined risks, and the silent corrosion of technical debt. This is not a failure of tools. It is a failure of *order*.
 
