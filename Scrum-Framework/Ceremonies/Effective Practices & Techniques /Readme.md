@@ -33,7 +33,7 @@ Talking about improvement means nothing unless it alters behavior in the next sp
 
 1. Identify one or two *themes*, not ten.
 2. Convert each theme into a *specific, time-bound action item*.
-3. Assign ownership — who will do it, and by when.
+3. Assign ownership - who will do it, and by when.
 4. Review the previous sprint’s actions before closing the next.
 
 Example:
