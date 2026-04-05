@@ -44,7 +44,7 @@ Repository Structure
 | **Core-Agile/**       | The **philosophy** of Agile-why it exists, what it demands.                                      | `agile-basics.md`, `agile-principles-powerbi.md`, `agile-vs-waterfall.md`                     |
 | **Scrum-Framework/**  | The **structure** of Scrum-roles, rituals, and artifacts as tools for **accountability**.        | `roles.md`, `artifacts.md`, `ceremonies.md`, `metrics-measures.md`                            |
 | **PowerBI-Practices/**| The **application** of Agile in Power BI-where theory meets **real-world discipline**.         | `agile-practices-bi.md`, `challenges.md`, `scaling-agile-bi.md`, `mapping-values-powerbi.md`   |
-| **Interview-Prep/**   | The **test** of understanding—questions and answers to **sharpen your clarity**.               | `Questions/interview-questions.md`, `Answers/interview-answers.md`                          |
+| **Interview-Prep/**   | The **test** of understanding-questions and answers to **sharpen your clarity**.               | `Questions/interview-questions.md`, `Answers/interview-answers.md`                          |
 
 ## File Breakdown: Truth Over Noise
 
