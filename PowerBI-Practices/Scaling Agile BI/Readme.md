@@ -30,7 +30,7 @@ A dashboard is ephemeral. A **semantic model** is legacy. Build carelessly, and 
 - **Continuous delivery for analytical products** treats dashboards not as disposable artifacts, but as *living products*-with users, feedback loops, and versioned releases.  
 - **DevOps pipelines for Power BI deployments** are your immune system. They catch infections (broken DAX, failed refreshes) before they reach production.  
 - **Designing data contracts** is the language of respect between engineers and analysts. It says: *“I will not break your world without warning.”*  
-- **Enterprise-wide DAX pattern libraries** are your canon of truth. They ensure that “YoY Growth” means the same thing in London, Tokyo, and New York—not a Tower of Babel of competing calculations.  
+- **Enterprise-wide DAX pattern libraries** are your canon of truth. They ensure that “YoY Growth” means the same thing in London, Tokyo, and New York-not a Tower of Babel of competing calculations.  
 
 ### **3. Process and Delivery: The Rituals of Coordinated Truth**  
 
