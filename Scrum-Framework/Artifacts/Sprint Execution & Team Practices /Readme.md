@@ -43,4 +43,4 @@ The purpose is not control, but **visibility**: seeing what must happen for valu
 Sprint execution is the craft of turning shared purpose into measurable progress.
 Planning sets the frame, the goal gives it direction, and task breakdown turns intention into motion.
 
-Teams that take these rituals seriously don’t just finish work; they **earn trust** — through predictability, clarity, and honest delivery.
+Teams that take these rituals seriously don’t just finish work; they **earn trust** - through predictability, clarity, and honest delivery.
