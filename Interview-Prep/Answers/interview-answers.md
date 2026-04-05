@@ -52,7 +52,7 @@ Second, I consider technical foundations. Sometimes you need to build core data 
 
 **Sprint Planning:** I help break down user stories and provide technical estimates. For instance, I'll explain that building a new data source connection might take 3 story points while adding filters to an existing report is 1 point.
 
-**Daily Stand-ups:** I keep these focused—what I completed, what I'm working on, and any blockers like delayed data refreshes or missing data lineage documentation.
+**Daily Stand-ups:** I keep these focused-what I completed, what I'm working on, and any blockers like delayed data refreshes or missing data lineage documentation.
 
 **Sprint Reviews:** This is where I demo completed Power BI reports to stakeholders. I don't just show the dashboard; I walk through actual business scenarios to get meaningful feedback.
 
