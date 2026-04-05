@@ -31,7 +31,7 @@ Each ceremony has a fixed duration for a reason - constraint forces clarity.
 **To uphold it:**
 
 * Appoint a timekeeper.
-* Prepare in advance — data, backlog, and blockers.
+* Prepare in advance - data, backlog, and blockers.
 * End on time, even if unfinished. The pressure of incompletion breeds efficiency next time.
 
 **Common challenge:** mistaking time-boxing for rigidity. The box is not a cage; it’s a training ground for discipline.
