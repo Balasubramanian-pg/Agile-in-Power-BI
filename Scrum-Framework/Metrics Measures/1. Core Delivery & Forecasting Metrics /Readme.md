@@ -340,7 +340,7 @@ They transform uncertainty into structured insight, allowing teams to act with r
 Through velocity, cycle time, predictability, and other measures, the team gains the clarity required to plan honestly and deliver consistently.
 
 Metrics do not guarantee success.
-They do something more important—they reveal the truth.
+They do something more important-they reveal the truth.
 And truth, when acknowledged with humility and discipline, becomes the anchor that prevents chaos and strengthens the reliability of Power BI delivery over time.
 
 </details>
