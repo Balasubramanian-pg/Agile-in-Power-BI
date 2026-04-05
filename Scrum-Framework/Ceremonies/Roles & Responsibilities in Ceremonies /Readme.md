@@ -58,7 +58,7 @@ A good Scrum Master makes themselves invisible when things flow and indispensabl
 
 ## Development Team Ownership
 
-The **Developers** are the makers — responsible for turning intent into increment.
+The **Developers** are the makers - responsible for turning intent into increment.
 Their success depends on self-organization, accountability, and discipline.
 
 **Sprint Planning**
