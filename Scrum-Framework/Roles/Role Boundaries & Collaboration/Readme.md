@@ -23,7 +23,7 @@ The **Product Owner** defines *what* brings value. The **Scrum Master** ensures 
 * Guards against the PO turning the backlog into a command list.
 
 When the PO manages tasks or the SM prioritizes backlog items, accountability collapses.
-Each must respect the boundary — not for bureaucracy’s sake, but to preserve focus and fairness.
+Each must respect the boundary - not for bureaucracy’s sake, but to preserve focus and fairness.
 
 ## Development Team Accountability
 
