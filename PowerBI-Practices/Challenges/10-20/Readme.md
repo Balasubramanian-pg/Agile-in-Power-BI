@@ -19,7 +19,7 @@ Consider **Role-Based Access and Gateway Configuration**. This is not about fire
 
 **Skill Development Roadmaps** acknowledge a hard truth: tools evolve, but people must evolve faster. A team that does not grow is a team that decays. Roadmaps are not HR paperwork-they are *investments in judgment*. They ensure your people can wield complexity without being crushed by it. Stagnant skills produce brittle systems.
 
-**Structuring Cross-Functional Squads** is about dissolving silos before they harden into walls. A BI team that does not include data engineering, business analysis, and product thinking is not a team—it is a bottleneck factory. Structure for *outcome ownership*, not task handoffs. When the dashboard fails, the squad owns it—not the “DAX person” or the “data guy.”
+**Structuring Cross-Functional Squads** is about dissolving silos before they harden into walls. A BI team that does not include data engineering, business analysis, and product thinking is not a team-it is a bottleneck factory. Structure for *outcome ownership*, not task handoffs. When the dashboard fails, the squad owns it—not the “DAX person” or the “data guy.”
 
 **Coaching Teams on Agile** is not cheerleading. It is *cultivating mindset*. It is teaching that Agile is not a timeline, but a *stance toward uncertainty*. It is fostering psychological safety so that data quality issues are raised, not hidden. It is replacing “That’s not my job” with “How can we fix this together?” Coaching is the soil in which high-performing teams grow.
 
