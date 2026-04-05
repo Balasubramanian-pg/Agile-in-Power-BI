@@ -56,7 +56,7 @@ People are not resources. They are **bearers of responsibility**. Your org desig
 
 ### **5. Strategy and Alignment: The Burden of Meaning**  
 
-If your BI program does not serve the organization’s highest aims, it is decoration—not delivery.  
+If your BI program does not serve the organization’s highest aims, it is decoration-not delivery.  
 
 - **Aligning BI delivery with OKRs and KPIs** ties every sprint to the company’s survival. It forces the question: *“Does this work move the needle on what matters?”*  
 - **Balancing innovation and standardization** is the tightrope walk of maturity. Allow too much freedom, and you drown in inconsistency. Allow too little, and you kill creativity.  
