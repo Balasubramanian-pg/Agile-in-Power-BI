@@ -68,6 +68,6 @@ Think of the Scrum Master as the conductor of a small ensemble and the Agile Coa
 Extended roles succeed when they respect the same principles as core Agile ones: collaboration, transparency, and continuous learning.
 Stakeholders guide purpose, BAs sharpen clarity, and Agile Coaches expand reach.
 
-Each strengthens the team when aligned — but weakens it when they substitute direction for dialogue.
+Each strengthens the team when aligned - but weakens it when they substitute direction for dialogue.
 
 The essence of Agile isn’t who holds which title, but how every role, core or extended, contributes to **shared understanding and sustained value**.
