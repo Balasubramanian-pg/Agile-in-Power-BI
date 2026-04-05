@@ -36,7 +36,7 @@ A vague “done” breeds excuses. A precise one breeds mastery.
 
 ## 1.5 Product Goal
 
-The Product Goal is **the horizon** — the unifying purpose toward which all sprints march.
+The Product Goal is **the horizon** - the unifying purpose toward which all sprints march.
 It binds short-term effort to long-term meaning. Without it, every sprint risks becoming an isolated burst of activity, devoid of direction.
 
 Hold this goal clearly in view. Let it evolve as understanding deepens, but never let it vanish.
