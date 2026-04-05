@@ -9,7 +9,7 @@ Every sprint leaves residue - choices deferred, shortcuts made, lessons half-lea
 
 ## Technical Debt
 
-**Technical debt** is the interest you pay for shortcuts taken under pressure. Some debt is strategic — a conscious trade-off to deliver faster. Most is moral laziness disguised as pragmatism.
+**Technical debt** is the interest you pay for shortcuts taken under pressure. Some debt is strategic - a conscious trade-off to deliver faster. Most is moral laziness disguised as pragmatism.
 
 Artifacts like the **Definition of Done (DoD)** and the **Increment** are your instruments of control.
 
