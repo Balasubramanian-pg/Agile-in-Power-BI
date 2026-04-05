@@ -33,7 +33,7 @@ Their power lies in autonomy; their credibility lies in follow-through.
 **Core principles:**
 
 * They commit to the Sprint Goal, not individual tasks.
-* They decide *how* to achieve it — sequence, division of work, and technical design.
+* They decide *how* to achieve it - sequence, division of work, and technical design.
 * They surface blockers, not excuses.
 
 Micromanagement destroys ownership. True accountability emerges when the team’s word carries weight — when they say “we’ll do it,” and do.
