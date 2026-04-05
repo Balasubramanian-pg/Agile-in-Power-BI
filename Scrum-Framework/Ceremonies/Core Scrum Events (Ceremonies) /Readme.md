@@ -84,7 +84,7 @@ Where the Review looks outward, the Retrospective looks inward.
 
 **Techniques:**
 
-* *Start / Stop / Continue* — clarify habits to change or sustain.
+* *Start / Stop / Continue* - clarify habits to change or sustain.
 * *Mad / Sad / Glad* — surface emotion before logic.
 * *5 Whys* — trace recurring pain points to their roots.
 
