@@ -1,5 +1,5 @@
 # **The Architecture of Responsibility in Scaled Agile Business Intelligence**  
-*—A Treatise on Order, Truth, and the Burden of Building at Scale*
+*-A Treatise on Order, Truth, and the Burden of Building at Scale*
 
 Before you lies not a menu of technical options, nor a checklist for compliance officers. What you hold is a **map of moral obligation**—a blueprint for how to build systems of truth in an age of noise, haste, and institutional fragility.  
 
