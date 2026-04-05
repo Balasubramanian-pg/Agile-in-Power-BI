@@ -42,7 +42,7 @@ Agile without rhythm is chaos. Process is not red tape-it is the **scaffolding t
 - **Metrics for measuring BI team agility** must reflect *real outcomes*: How fast do we deliver validated truth? How often do we break production? Not: How many stories did we burn?  
 - **Managing dependencies across BI and data engineering** is the art of synchronization. It recognizes that no team is an island-and builds bridges before the storm hits.  
 - **BI maturity model** is your mirror. It shows not where you wish to be, but where you *actually are*-in skills, process, and culture.  
-- **DataOps vs Agile BI** is not a rivalry—it is a marriage. DataOps brings automation and monitoring; Agile brings iteration and user focus. Together, they form a complete philosophy of reliable delivery.  
+- **DataOps vs Agile BI** is not a rivalry-it is a marriage. DataOps brings automation and monitoring; Agile brings iteration and user focus. Together, they form a complete philosophy of reliable delivery.  
 
 ### **4. Roles and Organizational Design: The Structure of Accountability**  
 
