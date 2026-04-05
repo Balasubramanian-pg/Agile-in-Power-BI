@@ -14,7 +14,7 @@ The **Product Owner** is the custodian of value. Their task is not just to manag
 
 * **Vision Setting:** Define the product’s purpose and align it to business goals.
 * **Backlog Ownership:** Maintain, refine, and prioritize the backlog to maximize value delivery.
-* **Value Maximization:** Make decisions based on impact, not opinion — trade-offs are part of the role.
+* **Value Maximization:** Make decisions based on impact, not opinion - trade-offs are part of the role.
 * **Acceptance Criteria:** Define “what good looks like” for each user story, ensuring transparency between intent and delivery.
 
 The Product Owner’s job is not to dictate tasks but to clarify value. When the PO leads through clarity instead of control, the team naturally delivers more meaningful outcomes.
