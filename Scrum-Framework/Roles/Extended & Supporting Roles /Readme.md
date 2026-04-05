@@ -52,7 +52,7 @@ Both roles serve agility, but at different altitudes.
 * Focus: *Team-level delivery and discipline.*
 * Responsibilities: Facilitate ceremonies, remove impediments, mentor individuals, protect the process.
 * Scope: One or a few teams.
-* Time horizon: Short to mid-term — enabling consistent delivery and team growth.
+* Time horizon: Short to mid-term - enabling consistent delivery and team growth.
 
 **Agile Coach**
 
