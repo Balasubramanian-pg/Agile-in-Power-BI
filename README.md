@@ -60,7 +60,7 @@ Repository Structure
 **Truth:** Agile is not a methodology. It is a **moral commitment** to **clarity, adaptability, and responsibility**.
 - **Iterative Work:** Small steps, **measured and corrected**.
 - **Incremental Value:** Deliver **usable truth**, not perfect illusions.
-- **Collaboration Over Silos:** The team **owns the outcome**—together.
+- **Collaboration Over Silos:** The team **owns the outcome**-together.
 - **Feedback as Discipline:** The market (or stakeholder) does not lie. **Listen.**
 
 #### **agile-principles-powerbi.md**
