@@ -15,7 +15,7 @@ Because make no mistake: every shortcut you take in the name of agility accrues 
 
 **Managing workspace sprawl** is a test of organizational maturity. When anyone can create a workspace with a click, you do not gain agility-you gain entropy. Workspaces multiply like unchecked cells: some healthy, many cancerous. Governance is not tyranny. It is *curation*. It is saying: *“This space has a purpose, an owner, a sunset date. This space serves truth, not convenience.”* Without it, your data estate becomes a haunted forest-full of paths that lead nowhere, and shadows that hide risk.
 
-**Implementing rollback** is the ultimate expression of humility. It says: *“We will make mistakes. But we will not leave you stranded.”* A dashboard that cannot be reverted is a hostage situation. Rollback is not a failure of planning—it is the proof of planning. It is the difference between a minor incident and a crisis of confidence.
+**Implementing rollback** is the ultimate expression of humility. It says: *“We will make mistakes. But we will not leave you stranded.”* A dashboard that cannot be reverted is a hostage situation. Rollback is not a failure of planning-it is the proof of planning. It is the difference between a minor incident and a crisis of confidence.
 
 **Documenting DAX and data models** is an act of generosity. It is writing a letter to your future self, and to the stranger who will inherit your work. Documentation that lives only in your head is arrogance. Documentation embedded in the model, versioned with the code, accessible to all—that is stewardship. It transforms tribal knowledge into shared understanding.
 
