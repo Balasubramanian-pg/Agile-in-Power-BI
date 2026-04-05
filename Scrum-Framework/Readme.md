@@ -55,7 +55,7 @@ Measurement is moral. It demands honesty, restraint, and reflection - or it beco
 
 ## Roles
 
-Roles define **how people hold responsibility together**. Each role - Product Owner, Scrum Master, Developer — forms a part of an ecosystem designed for clarity and trust. When the boundaries are respected, collaboration flourishes. When blurred, accountability dies.
+Roles define **how people hold responsibility together**. Each role - Product Owner, Scrum Master, Developer - forms a part of an ecosystem designed for clarity and trust. When the boundaries are respected, collaboration flourishes. When blurred, accountability dies.
 
 **Contained Readmes:**
 
