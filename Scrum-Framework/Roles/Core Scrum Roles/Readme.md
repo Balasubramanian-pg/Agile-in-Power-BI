@@ -50,5 +50,5 @@ A team that is trusted delivers faster; a team that is directed delivers less. A
 Scrum roles are not titles - they are disciplines.
 The Product Owner drives purpose. The Scrum Master protects flow. The Developers create value.
 
-Together, they form a triangle of balance - vision, process, and execution — each keeping the others honest.
+Together, they form a triangle of balance - vision, process, and execution - each keeping the others honest.
 When that balance holds, Scrum stops being a framework and becomes what it was always meant to be: **a system of collective accountability for meaningful work.**
