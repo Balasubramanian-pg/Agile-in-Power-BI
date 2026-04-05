@@ -58,4 +58,4 @@ The ceremonies of Agile are not bureaucracy - they are the rituals of self-aware
 They exist to help teams see clearly, act decisively, and learn continuously.
 
 Respect the time-box. Keep the cadence. Embrace inspection.
-In that repetition lies mastery — not because it’s mechanical, but because it trains you to face the truth every sprint, without flinching.
+In that repetition lies mastery - not because it’s mechanical, but because it trains you to face the truth every sprint, without flinching.
