@@ -18,7 +18,7 @@ Governance is not bureaucracy. It is the **architecture of trust**. Without it, 
 - **Data quality ownership in Agile BI** forces the hard truth: *If no one owns the quality, everyone suffers the consequences*. Assign it, or accept that your dashboards are built on sand.  
 - **Governance automation** is the triumph of foresight over firefighting. It says: *“We will not rely on human vigilance alone. We will encode our standards into the system itself.”*  
 - **Scaling self-service analytics safely** is the ultimate test of balance. It requires you to say: *“Create freely-but within boundaries that protect us all.”*  
-- **Power BI version control strategies** are your lifeline to sanity. Without them, every change is a roll of the dice, every deployment a prayer. Version control is not for files—it is for *memory, accountability, and redemption*.  
+- **Power BI version control strategies** are your lifeline to sanity. Without them, every change is a roll of the dice, every deployment a prayer. Version control is not for files-it is for *memory, accountability, and redemption*.  
 
 ### **2. Architecture and Engineering: The Craft of Enduring Systems**  
 
