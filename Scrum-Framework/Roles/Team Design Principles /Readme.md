@@ -10,7 +10,7 @@ Team design is not an HR diagram. It’s moral architecture - deciding how peopl
 ## Cross-Functional Teams
 
 A **cross-functional team** can deliver value from start to finish without waiting on outsiders.
-It’s not a luxury — it’s the foundation of speed and accountability.
+It’s not a luxury - it’s the foundation of speed and accountability.
 
 **Why it matters:**
 
