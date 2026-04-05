@@ -3,7 +3,7 @@
 ## Introduction
 
 Agile teams rarely exist in isolation. They operate within a network of stakeholders, advisors, and enablers who can either accelerate progress or quietly derail it.
-Understanding these extended roles - and keeping them aligned to Agile principles — determines whether collaboration creates clarity or confusion.
+Understanding these extended roles - and keeping them aligned to Agile principles - determines whether collaboration creates clarity or confusion.
 
 Supporting roles are not side characters. They are amplifiers of value when they understand their place in the system.
 
