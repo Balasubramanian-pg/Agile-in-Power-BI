@@ -21,7 +21,7 @@ Artifacts are the **evidence of work and the reflection of intent**. They exist 
 * **Sprint Execution & Team Practices** – The craft of turning intent into increments.
 * **Visual Management & Progress Tracking** – The visibility that holds teams accountable.
 
-Artifacts are not bureaucracy — they are the **mirrors of value**, showing whether what we build still serves the truth of the product goal.
+Artifacts are not bureaucracy - they are the **mirrors of value**, showing whether what we build still serves the truth of the product goal.
 
 ## Ceremonies
 
