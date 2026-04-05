@@ -25,7 +25,7 @@ Governance is not bureaucracy. It is the **architecture of trust**. Without it, 
 A dashboard is ephemeral. A **semantic model** is legacy. Build carelessly, and you leave behind a minefield for your successors. Build with discipline, and you gift the organization a foundation for decades of insight.  
 
 - **Building enterprise semantic models** is an act of epistemological courage. It demands you define: *What is “Revenue”? What is a “Customer”?* Get this wrong, and every report built atop it propagates error like a virus.  
-- **Shared dataset lifecycle management** acknowledges a hard truth: *All models decay*. Govern their birth, life, and death—or be buried under the weight of orphaned, broken assets.  
+- **Shared dataset lifecycle management** acknowledges a hard truth: *All models decay*. Govern their birth, life, and death-or be buried under the weight of orphaned, broken assets.  
 - **Integrating Power BI with CI/CD tools** is the rejection of hero culture. It says: *“No individual is so infallible that their work bypasses validation.”* Automation is not about speed—it is about **humility**.  
 - **Continuous delivery for analytical products** treats dashboards not as disposable artifacts, but as *living products*—with users, feedback loops, and versioned releases.  
 - **DevOps pipelines for Power BI deployments** are your immune system. They catch infections (broken DAX, failed refreshes) before they reach production.  
