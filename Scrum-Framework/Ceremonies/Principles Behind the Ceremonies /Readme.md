@@ -8,7 +8,7 @@ When teams lose that spirit, ceremonies become noise; when they honor it, ceremo
 
 ## Inspection and Adaptation
 
-Agile operates on **empirical process control** — you don’t assume the plan is right, you prove it through evidence.
+Agile operates on **empirical process control** - you don’t assume the plan is right, you prove it through evidence.
 Every ceremony supports this cycle:
 
 * **Transparency** – Make work visible through boards, increments, and goals.
