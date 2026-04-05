@@ -14,7 +14,7 @@ To build safety:
 
 * The **Scrum Master** sets the tone - curiosity over criticism, questions over commands.
 * The **Product Owner** invites dissent, especially when backlog priorities or deadlines are challenged.
-* The **Developers** own their voice — raising blockers, admitting uncertainty, and proposing change without fear of judgment.
+* The **Developers** own their voice - raising blockers, admitting uncertainty, and proposing change without fear of judgment.
 
 When a team feels safe, the conversation shifts from *who’s at fault* to *what can we learn*.
 That shift marks the difference between process compliance and living agility.
