@@ -28,7 +28,7 @@ The goal is not “everyone does everything,” but “nothing stops because som
 
 ## Self-Organizing Teams
 
-Self-organization is not rebellion. It’s **structured autonomy** — freedom within purpose.
+Self-organization is not rebellion. It’s **structured autonomy** - freedom within purpose.
 When done right, it produces alignment without micromanagement; when done poorly, it turns into chaos wrapped in jargon.
 
 **Enable it by:**
