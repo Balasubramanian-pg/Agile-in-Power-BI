@@ -47,7 +47,7 @@ The **Scrum Master (SM)** is the guardian of process and the conscience of the t
 
 **Sprint Review**
 
-* Facilitates dialogue between developers and stakeholders — keeps it about the product, not performance.
+* Facilitates dialogue between developers and stakeholders - keeps it about the product, not performance.
 
 **Retrospective**
 
