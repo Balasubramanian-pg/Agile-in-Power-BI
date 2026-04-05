@@ -14,7 +14,7 @@ Every sprint leaves residue - choices deferred, shortcuts made, lessons half-lea
 Artifacts like the **Definition of Done (DoD)** and the **Increment** are your instruments of control.
 
 * The **DoD** defines non-negotiables: tested code, validated data models, reviewed visuals, and documented logic. It keeps you from pretending incomplete work is “done.”
-* The **Increment** is the visible outcome of those standards. If it’s brittle, undocumented, or untested, it’s not an increment — it’s a liability.
+* The **Increment** is the visible outcome of those standards. If it’s brittle, undocumented, or untested, it’s not an increment - it’s a liability.
 
 Managing debt means naming it, tracking it, and repaying it deliberately. The goal is not perfection; it’s integrity. Deliver what works, but never forget what needs fixing.
 
