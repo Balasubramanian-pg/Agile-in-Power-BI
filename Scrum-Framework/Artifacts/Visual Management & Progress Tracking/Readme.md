@@ -3,7 +3,7 @@
 ## Introduction
 
 What is seen becomes understood. What is hidden festers.
-Visual management is not decoration — it is the **act of bringing truth into the open**.
+Visual management is not decoration - it is the **act of bringing truth into the open**.
 In Agile, transparency is mercy: it keeps confusion from multiplying and egos from hiding. Charts and boards are not for show; they are instruments of accountability.
 
 ## Task Board / Kanban Board
