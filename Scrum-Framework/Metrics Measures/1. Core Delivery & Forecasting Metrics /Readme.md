@@ -40,7 +40,7 @@ It collapses when team capacity fluctuates unpredictably.
 In Power BI projects, velocity tends to stabilize once the semantic model is mature and definitions become consistent.
 Before that point, fluctuations should not be treated as failure; they are signs of discovery.
 
-Velocity becomes meaningful only when used responsibly—to guide planning, not to pressure performance.
+Velocity becomes meaningful only when used responsibly-to guide planning, not to pressure performance.
 
 </details>
 
