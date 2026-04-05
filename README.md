@@ -49,7 +49,7 @@ Repository Structure
 ## File Breakdown: Truth Over Noise
 
 ### **1. README.md**
-**Purpose:** *Why this repository exists—and why it matters.*
+**Purpose:** *Why this repository exists-and why it matters.*
 - **The Problem:** Agile in Power BI is often reduced to buzzwords. This repository **restores weight** to the principles.
 - **The Solution:** A structured path to **mastery**, not just interview success.
 - **How to Use It:** Navigate from philosophy (`Core-Agile/`) to practice (`PowerBI-Practices/`) to proof (`Interview-Prep/`).
