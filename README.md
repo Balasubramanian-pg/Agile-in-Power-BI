@@ -132,7 +132,7 @@ Repository Structure
 - **Shared Datasets:** **One source of truth**, not ten.
 
 #### **mapping-values-powerbi.md**
-**Truth:** The Agile Manifesto was written for **all builders of value**—including Power BI practitioners.
+**Truth:** The Agile Manifesto was written for **all builders of value**-including Power BI practitioners.
 - **Individuals & Interactions > Processes & Tools:** **People build dashboards**, not software.
 - **Working Software > Comprehensive Documentation:** A **usable dashboard** is worth a thousand slides.
 - **Customer Collaboration > Contract Negotiation:** KPIs are **co-created**, not dictated.
