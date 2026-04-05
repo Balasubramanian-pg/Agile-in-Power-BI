@@ -41,7 +41,7 @@ If you respect the clock, the team learns to respect each other’s attention.
 ## Ceremony Cadence & Rhythm
 
 Cadence is how a team builds trust with itself.
-Predictable timing — the same day, the same hour, the same length — creates momentum. It removes decision fatigue and anchors accountability.
+Predictable timing - the same day, the same hour, the same length — creates momentum. It removes decision fatigue and anchors accountability.
 
 A consistent rhythm means:
 
