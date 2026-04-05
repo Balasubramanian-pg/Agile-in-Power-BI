@@ -11,7 +11,7 @@ This repository is a response to that danger. It is a collection of **practices,
 
 The documents within are grouped into four pillars:  
 1. **Agile Practices BI** - *How to run sprints that deliver real insight, not just pixels.*  
-2. **Challenges** — *The friction points where theory meets reality—and how to overcome them.*  
+2. **Challenges** - *The friction points where theory meets reality—and how to overcome them.*  
 3. **Mapping Values PowerBI** — *Connecting technical output to business outcomes.*  
 4. **Scaling Agile BI** — *From squad to enterprise: governance without suffocation.*  
 
