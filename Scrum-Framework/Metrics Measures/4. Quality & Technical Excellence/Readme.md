@@ -316,7 +316,7 @@ They define expectations.
 They reduce ambiguity.
 They eliminate interpretive confusion.
 
-Standards are not rules—they are commitments.
+Standards are not rules-they are commitments.
 
 </details>
 
