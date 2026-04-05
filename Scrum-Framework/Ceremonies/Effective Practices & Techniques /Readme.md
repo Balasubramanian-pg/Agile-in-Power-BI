@@ -22,7 +22,7 @@ Example:
 > Weak: “Build new customer dashboard visuals.”
 > Strong: “Enable sales leaders to compare weekly revenue trends across regions.”
 
-A good goal doesn’t predict the path — it anchors purpose. When chaos hits mid-sprint, the team can ask, *Does this help us reach the goal?* If not, it waits.
+A good goal doesn’t predict the path - it anchors purpose. When chaos hits mid-sprint, the team can ask, *Does this help us reach the goal?* If not, it waits.
 
 ## Running Actionable Retrospectives
 
