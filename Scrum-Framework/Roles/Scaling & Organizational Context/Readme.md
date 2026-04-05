@@ -32,7 +32,7 @@ Maintaining presence across geography requires deliberate design.
 * Watch tone and timing - the absence of tone in chat can feel like indifference.
 * Create small rituals of connection - weekly syncs, end-of-sprint reflections, or informal catch-ups.
 
-Distributed agility thrives when presence is redefined — less about physical proximity, more about *consistent clarity and empathy*.
+Distributed agility thrives when presence is redefined - less about physical proximity, more about *consistent clarity and empathy*.
 
 ## Role Evolution Over Time
 
