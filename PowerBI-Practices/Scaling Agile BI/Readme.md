@@ -7,7 +7,7 @@ Scaling Agile Business Intelligence is not an engineering problem. It is a **pro
 
 Because make no mistake: **scale amplifies everything**. It magnifies good design into institutional advantage-and bad design into systemic catastrophe. A single flawed measure in a team dashboard is a nuisance. That same measure, embedded in an enterprise semantic model used by 500 executives, becomes a vector of strategic delusion. Speed without governance is not agility-it is *organized recklessness*.  
 
-Let us now walk through the five pillars of responsible scale—not as abstract categories, but as **ethical imperatives**.
+Let us now walk through the five pillars of responsible scale-not as abstract categories, but as **ethical imperatives**.
 
 ### **1. Governance and Control: The Discipline of Boundaries**  
 
