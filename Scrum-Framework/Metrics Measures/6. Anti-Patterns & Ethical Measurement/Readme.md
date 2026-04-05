@@ -350,7 +350,7 @@ Data instability
 Lack of clarity
 Unrealistic expectations
 
-Most failures originate in the system—not the individual.
+Most failures originate in the system-not the individual.
 
 </details>
 
