@@ -3,7 +3,7 @@
 ## Introduction
 
 Agile fails not because of tools or frameworks, but because of **fear**. Fear of blame, of conflict, of ownership.
-Ceremonies and artifacts mean nothing without the culture that sustains them — one where honesty is safe, feedback is welcome, and success is shared.
+Ceremonies and artifacts mean nothing without the culture that sustains them - one where honesty is safe, feedback is welcome, and success is shared.
 Agile maturity isn’t measured in velocity charts; it’s measured in how teams speak to each other when things go wrong.
 
 ## Psychological Safety in Role Interactions
