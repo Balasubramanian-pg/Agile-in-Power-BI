@@ -38,7 +38,7 @@ When the burndown reveals deviation, the question isn’t *who failed*, but *wha
 Use it to forecast capacity, not to compete. A team’s velocity will fluctuate - and that’s not failure, it’s signal.
 If it rises, ask *why*. If it falls, ask *why*. In both cases, learn.
 
-The real danger is when velocity becomes performance theater — when teams inflate estimates or rush tasks to “look fast.” That’s the moment you’ve traded integrity for metrics.
+The real danger is when velocity becomes performance theater - when teams inflate estimates or rush tasks to “look fast.” That’s the moment you’ve traded integrity for metrics.
 
 ## Closing Reflection
 
