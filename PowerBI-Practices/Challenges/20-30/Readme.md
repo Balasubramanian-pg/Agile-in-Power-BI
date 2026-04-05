@@ -23,6 +23,6 @@ Because make no mistake: every shortcut you take in the name of agility accrues 
 
 These files, then, are not a checklist. They are a covenant. A promise that in your rush to deliver, you will not sacrifice integrity. That in your pursuit of speed, you will not abandon clarity. That you will build not just for today’s sprint, but for the thousand decisions that will depend on your work tomorrow.
 
-For what is a dashboard, in the end, but a mirror held up to reality? And if that mirror is cracked, distorted, or clouded by debt and neglect—what then does the organization see? Not truth. Only shadows.
+For what is a dashboard, in the end, but a mirror held up to reality? And if that mirror is cracked, distorted, or clouded by debt and neglect-what then does the organization see? Not truth. Only shadows.
 
 Build well. Build wisely. And never confuse velocity for virtue.
