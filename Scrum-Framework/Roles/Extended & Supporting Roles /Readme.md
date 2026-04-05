@@ -15,7 +15,7 @@ Their role is to inform, challenge, and refine - not to micromanage.
 **When and how they engage:**
 
 * **Sprint Reviews:** The primary forum for collaboration. Stakeholders see working increments, give feedback, and recalibrate priorities.
-* **Backlog Refinement:** Periodically, for context and validation — never to dictate scope mid-sprint.
+* **Backlog Refinement:** Periodically, for context and validation - never to dictate scope mid-sprint.
 * **Ad-hoc Consultations:** When domain expertise or clarification is needed.
 
 **Managing expectations:**
