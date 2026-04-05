@@ -9,7 +9,7 @@ Consider **Role-Based Access and Gateway Configuration**. This is not about fire
 
 **Communicating Agile BI Progress to Non-Technical Stakeholders** demands more than translation. It demands *empathy*. The executive does not care about DAX or partitioning. They care: *“Can I make a decision with this?”* Your job is not to impress with complexity, but to illuminate with simplicity. Show progress not in story points, but in *declining uncertainty*. Not in features shipped, but in *questions answered*. If your stakeholder is confused, the fault is not theirs-it is yours. Clarity is your duty.
 
-**Handling Ad-Hoc Requests Without Breaking Sprints** is a test of discipline versus desperation. The “quick ask” is the enemy of coherence. Every unvetted request is a crack in the dam. You do not say “no” out of rigidity—you say “not now” out of *respect for the work already committed*. You triage not to reject, but to *protect value*. Chaos disguised as responsiveness is still chaos.
+**Handling Ad-Hoc Requests Without Breaking Sprints** is a test of discipline versus desperation. The “quick ask” is the enemy of coherence. Every unvetted request is a crack in the dam. You do not say “no” out of rigidity-you say “not now” out of *respect for the work already committed*. You triage not to reject, but to *protect value*. Chaos disguised as responsiveness is still chaos.
 
 **Faster Feedback Loops** are not about speed—they are about *courage*. It takes courage to show unfinished work. It takes courage to ask: *“Is this what you meant?”* early, when it’s cheap to be wrong. Delayed feedback is a luxury you cannot afford. The longer you wait, the more you invest in being incorrect. Rapid feedback is the antidote to arrogance.
 
