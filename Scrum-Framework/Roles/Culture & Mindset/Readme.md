@@ -31,7 +31,7 @@ A healthy Agile team does not hide behind roles; it rallies around the product.
 * **Joint Decision-Making:** Trade-offs are discussed as a group - no “throwing over the wall.”
 
 Accountability in Agile isn’t top-down; it’s circular.
-When success is collective, failure is shared — and learning accelerates.
+When success is collective, failure is shared - and learning accelerates.
 
 ## Closing Reflection
 
