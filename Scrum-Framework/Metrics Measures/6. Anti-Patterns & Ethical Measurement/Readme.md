@@ -46,7 +46,7 @@ KPI definitions are unsettled
 Acceptance criteria are missing
 Data sources are unvalidated
 
-Beginning without clarity is not speed—it is drift.
+Beginning without clarity is not speed-it is drift.
 
 </details>
 
