@@ -64,4 +64,4 @@ A precise goal gives focus. A real retrospective gives growth. A transparent rev
 
 When practiced well, these three techniques create a loop of integrity:
 **intent → insight → improvement.**
-That’s how teams don’t just deliver faster — they deliver *better*, sprint after sprint.
+That’s how teams don’t just deliver faster - they deliver *better*, sprint after sprint.
