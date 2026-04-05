@@ -40,7 +40,7 @@ Ceremonies are not meetings; they are **moments of renewal**. They remind the te
 
 ## Metrics & Measures
 
-Metrics reveal whether a team is aligned with reality or lost in illusion. They must be used with humility — as instruments of insight, not control. Numbers can guide growth, but when worshipped, they corrupt purpose.
+Metrics reveal whether a team is aligned with reality or lost in illusion. They must be used with humility - as instruments of insight, not control. Numbers can guide growth, but when worshipped, they corrupt purpose.
 
 **Contained Readmes:**
 
