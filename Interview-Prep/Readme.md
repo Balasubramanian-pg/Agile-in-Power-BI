@@ -7,7 +7,7 @@ Interviewing for a Power BI role within an Agile environment isn’t merely abou
 ## On Change and Adaptation
 
 When a stakeholder changes requirements mid-sprint, you face a test of composure. Do you panic, or do you assess, document, and decide?
-A strong practitioner understands that change is not chaos. It is feedback. Treat it as the world’s reminder that your model of reality — your dashboard, your backlog, your sprint — was incomplete.
+A strong practitioner understands that change is not chaos. It is feedback. Treat it as the world’s reminder that your model of reality - your dashboard, your backlog, your sprint — was incomplete.
 
 Respond by analyzing impact, presenting alternatives, and maintaining integrity in delivery. You are not saying “yes” to change; you are saying “yes” to evolution.
 
