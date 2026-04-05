@@ -26,7 +26,7 @@ Acceptance criteria are the **terms of truth**. They define when the story has f
 
 ## Backlog Refinement (Grooming)
 
-Refinement is the **ritual of clarity**. Once per sprint - sometimes more — the team gathers to interrogate its own assumptions.
+Refinement is the **ritual of clarity**. Once per sprint - sometimes more - the team gathers to interrogate its own assumptions.
 
 **Participants:** Product Owner, Developers, Analysts, and sometimes the Scrum Master.
 **Process:** Review existing items, split or merge where needed, estimate effort, clarify intent.
