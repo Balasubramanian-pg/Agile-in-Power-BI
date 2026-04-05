@@ -335,7 +335,7 @@ Age becomes a measure of responsibility.
 
 <details><summary><strong>8. Flow Load</strong></summary>
 
-Flow load represents the total volume of items in the system—active, waiting, blocked, or queued.
+Flow load represents the total volume of items in the system-active, waiting, blocked, or queued.
 It reflects system strain.
 
 High flow load signals instability.
