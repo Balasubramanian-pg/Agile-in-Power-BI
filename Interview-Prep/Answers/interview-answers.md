@@ -18,7 +18,7 @@
 ### "Describe your experience working in sprints for report development."
 
 **Strong Answer:**
-"I've worked in two-week sprints for Power BI development across multiple projects. Our typical sprint started with planning where we broke down user stories like 'As a sales manager, I need to see year-over-year revenue trends by region.' I'd estimate the effort for data modeling, DAX measures, and visualization work. During the sprint, I attended daily stand-ups where I'd share progress—for example, 'Yesterday I completed the data model for the sales fact table, today I'm building the YoY comparison measures, and I'm blocked on getting access to the regional hierarchy dimension.'
+"I've worked in two-week sprints for Power BI development across multiple projects. Our typical sprint started with planning where we broke down user stories like 'As a sales manager, I need to see year-over-year revenue trends by region.' I'd estimate the effort for data modeling, DAX measures, and visualization work. During the sprint, I attended daily stand-ups where I'd share progress-for example, 'Yesterday I completed the data model for the sales fact table, today I'm building the YoY comparison measures, and I'm blocked on getting access to the regional hierarchy dimension.'
 
 At sprint end, we'd demo working dashboards to stakeholders, not just slides. This iterative approach meant we could course-correct quickly based on feedback rather than building something for months that didn't quite meet needs."
 
