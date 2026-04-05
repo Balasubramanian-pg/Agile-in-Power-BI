@@ -333,7 +333,7 @@ Ethical measurement must support inquiry, not fear.
 Metrics belong to the team, not to individuals.
 Collective accountability prevents comparison, competition, and blame.
 
-When a metric declines, the team improves the system—not the person.
+When a metric declines, the team improves the system-not the person.
 
 </details>
 
