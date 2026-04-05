@@ -142,7 +142,7 @@ Repository Structure
 #### **Questions/interview-questions.md**
 **Truth:** Interviews are not about **right answers**. They are about **clear thinking**.
 - What is the **difference between Agile and Scrum**?
-- Explain **user stories**—with a Power BI example.
+- Explain **user stories**-with a Power BI example.
 - What is a **sprint**? Why 2–4 weeks?
 - How do you handle **changing requirements mid-sprint**?
 - Why does **backlog refinement** matter?
