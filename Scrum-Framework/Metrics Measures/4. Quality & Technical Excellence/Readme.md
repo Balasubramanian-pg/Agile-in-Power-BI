@@ -130,7 +130,7 @@ Reliable refreshes
 Detection of anomalies
 Clear data lineage
 
-Teams cannot assume data quality—they must validate it.
+Teams cannot assume data quality-they must validate it.
 
 </details>
 
