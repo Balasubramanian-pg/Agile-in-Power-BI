@@ -111,7 +111,7 @@ Without cadence, process becomes improvisation.
 
 <details><summary><strong>4.1 Purpose Over Procedure</strong></summary>
 
-Ceremonies must serve meaning—not mechanics.
+Ceremonies must serve meaning-not mechanics.
 A process without purpose becomes noise.
 
 Teams remain effective when ceremonies generate clarity rather than routine motion.
