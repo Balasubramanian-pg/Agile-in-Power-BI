@@ -8,7 +8,7 @@ The sprint is where commitment meets consequence.
 
 ## Sprint Planning
 
-Sprint Planning is the **moment of collective agreement** — where ambition becomes achievable.
+Sprint Planning is the **moment of collective agreement** - where ambition becomes achievable.
 The Product Owner defines *why* the sprint exists and what outcomes matter most. The Developers determine *how* that value will be delivered.
 
 Together, they create the **Sprint Backlog**, a clear and realistic commitment for the next cycle. It should not be a wish list. It should be a contract: achievable, measurable, and fully understood.
