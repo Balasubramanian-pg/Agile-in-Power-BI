@@ -33,7 +33,7 @@ A team that skips ceremonies isn’t saving time; it’s saving effort at the co
 ## Micromanagement in Daily Scrums
 
 The **Daily Scrum** exists for the team, not the manager. It’s meant to synchronize effort, not justify it.
-When leaders hijack it into a status update - “What did you do yesterday? Why isn’t it done?” — fear replaces flow.
+When leaders hijack it into a status update - “What did you do yesterday? Why isn’t it done?” - fear replaces flow.
 
 Micromanagement kills ownership.
 A good Scrum Master protects the space: the team speaks to each other, not up the chain. The goal is shared momentum, not performance reporting.
