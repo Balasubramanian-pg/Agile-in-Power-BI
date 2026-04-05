@@ -31,6 +31,6 @@ When CI/CD is working, quality ceases to be a checkpoint and becomes a rhythm - 
 ## Closing Reflection
 
 Sustainability in Agile is not about slowing down; it’s about **building at a pace you can keep forever**.
-Quality is the morality of craft — it’s how you show respect for your users, your data, and your team.
+Quality is the morality of craft - it’s how you show respect for your users, your data, and your team.
 
 A mature Agile practitioner doesn’t chase velocity. They pursue **durability** — the quiet strength that comes from doing it right, sprint after sprint.
