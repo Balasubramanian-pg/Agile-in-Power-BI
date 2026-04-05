@@ -123,7 +123,7 @@ The attrition dashboard was delivered on time and helped leadership make retenti
 **Strong Answer:**
 "Quality within sprint timeboxes requires building it in, not inspecting it in afterward. Here's my approach:
 
-**Definition of Done:** We have clear criteria—data model is documented, DAX measures are tested with edge cases (nulls, zeros, large numbers), report performance is under 5 seconds for typical queries, and visuals are validated with the business user.
+**Definition of Done:** We have clear criteria-data model is documented, DAX measures are tested with edge cases (nulls, zeros, large numbers), report performance is under 5 seconds for typical queries, and visuals are validated with the business user.
 
 **Incremental Development:** I build data models in layers—start with core fact tables, test with stakeholders, then add dimensions. This catches issues early when they're cheaper to fix.
 
