@@ -17,7 +17,7 @@ Governance is not bureaucracy. It is the **architecture of trust**. Without it, 
 - **Role-based access and RLS at scale** is not about locking data away-it is about *moral precision*. It ensures that a regional manager sees only what they are responsible for, and nothing more. To fail here is to invite not just security breaches, but ethical violations.  
 - **Data quality ownership in Agile BI** forces the hard truth: *If no one owns the quality, everyone suffers the consequences*. Assign it, or accept that your dashboards are built on sand.  
 - **Governance automation** is the triumph of foresight over firefighting. It says: *“We will not rely on human vigilance alone. We will encode our standards into the system itself.”*  
-- **Scaling self-service analytics safely** is the ultimate test of balance. It requires you to say: *“Create freely—but within boundaries that protect us all.”*  
+- **Scaling self-service analytics safely** is the ultimate test of balance. It requires you to say: *“Create freely-but within boundaries that protect us all.”*  
 - **Power BI version control strategies** are your lifeline to sanity. Without them, every change is a roll of the dice, every deployment a prayer. Version control is not for files—it is for *memory, accountability, and redemption*.  
 
 ### **2. Architecture and Engineering: The Craft of Enduring Systems**  
