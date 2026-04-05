@@ -125,7 +125,7 @@ The attrition dashboard was delivered on time and helped leadership make retenti
 
 **Definition of Done:** We have clear criteria-data model is documented, DAX measures are tested with edge cases (nulls, zeros, large numbers), report performance is under 5 seconds for typical queries, and visuals are validated with the business user.
 
-**Incremental Development:** I build data models in layers—start with core fact tables, test with stakeholders, then add dimensions. This catches issues early when they're cheaper to fix.
+**Incremental Development:** I build data models in layers-start with core fact tables, test with stakeholders, then add dimensions. This catches issues early when they're cheaper to fix.
 
 **Peer Review:** For complex DAX or data model changes, a colleague reviews my work mid-sprint, not at the end. We've caught calculation errors this way before they reached stakeholders.
 
