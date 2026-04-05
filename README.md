@@ -136,7 +136,7 @@ Repository Structure
 - **Individuals & Interactions > Processes & Tools:** **People build dashboards**, not software.
 - **Working Software > Comprehensive Documentation:** A **usable dashboard** is worth a thousand slides.
 - **Customer Collaboration > Contract Negotiation:** KPIs are **co-created**, not dictated.
-- **Responding to Change > Following a Plan:** Dashboards **must evolve**—or they die.
+- **Responding to Change > Following a Plan:** Dashboards **must evolve**-or they die.
 
 ### **5. Interview-Prep/: The Test of Clarity**
 #### **Questions/interview-questions.md**
