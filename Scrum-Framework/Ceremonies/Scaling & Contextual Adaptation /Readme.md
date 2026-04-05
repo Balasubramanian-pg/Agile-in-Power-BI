@@ -33,7 +33,7 @@ In remote Agile, communication replaces presence. The ritual still matters, but 
 Agile is not a monolith. Different frameworks express the same truths in different forms.
 
 * **Kanban:** No time-boxed ceremonies - instead, continuous flow, daily syncs, and explicit WIP limits serve as inspection points.
-* **SAFe (Scaled Agile Framework):** Adds layers - Program Increments, PI Planning, and System Demos — to align multiple teams without losing transparency.
+* **SAFe (Scaled Agile Framework):** Adds layers - Program Increments, PI Planning, and System Demos - to align multiple teams without losing transparency.
 * **Extreme Programming (XP):** Focuses on technical excellence — pair programming, continuous integration, and test-driven development as the “ceremonies” of craftsmanship.
 
 Each model seeks the same outcome: rapid learning, shared visibility, and adaptive delivery. The ceremony is only sacred if it serves those ends.
