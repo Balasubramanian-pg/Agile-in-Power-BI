@@ -82,7 +82,7 @@ Second, I consider technical foundations. Sometimes you need to build core data 
 
 **4. Communication:** I updated the sprint board and informed all stakeholders in our daily stand-up about the scope change and rationale.
 
-The attrition dashboard was delivered on time and helped leadership make retention decisions. This experience reinforced that flexibility doesn't mean chaos—it means structured decision-making."
+The attrition dashboard was delivered on time and helped leadership make retention decisions. This experience reinforced that flexibility doesn't mean chaos-it means structured decision-making."
 
 **Key Elements:**
 - Specific situation
