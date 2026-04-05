@@ -46,7 +46,7 @@ The habit of following through turns reflection into evolution.
 ## Engaging Stakeholders in Sprint Reviews
 
 A **Sprint Review** is not a presentation; it’s a **conversation about value**.
-Stakeholders should leave with clarity — what’s done, what’s next, and how what they saw moves the product closer to its goal.
+Stakeholders should leave with clarity - what’s done, what’s next, and how what they saw moves the product closer to its goal.
 
 **Effective techniques:**
 
