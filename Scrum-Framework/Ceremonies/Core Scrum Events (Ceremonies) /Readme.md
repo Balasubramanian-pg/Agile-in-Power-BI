@@ -111,7 +111,7 @@ Each sprint is a miniature experiment in delivering value - bounded by time, mea
 ## Closing Reflection
 
 The core Scrum ceremonies exist not to impose control but to create **clarity and rhythm**.
-They are how teams stay honest — with themselves, with stakeholders, and with the work.
+They are how teams stay honest - with themselves, with stakeholders, and with the work.
 
 Respect the time-box. Show real progress. Reflect without fear.
 Do that, and Scrum stops being a process — it becomes a culture of deliberate improvement.
