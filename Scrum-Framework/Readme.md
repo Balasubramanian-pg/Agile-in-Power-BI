@@ -74,6 +74,6 @@ Roles are not ranks. They are **contracts of responsibility**, each carrying a d
 Scrum, when practiced without meaning, becomes a schedule. When practiced with discipline, it becomes a **culture of truth**.
 Artifacts show what is real. Ceremonies keep reflection alive. Metrics keep progress honest. Roles define how people carry the burden of delivery together.
 
-It is not the framework that builds great teams; it is the **courage to live by its principles** — clarity, integrity, and continuous adaptation.
+It is not the framework that builds great teams; it is the **courage to live by its principles** - clarity, integrity, and continuous adaptation.
 
 Scrum, at its best, is not just a way to build products. It is a way to **build order out of chaos**.
