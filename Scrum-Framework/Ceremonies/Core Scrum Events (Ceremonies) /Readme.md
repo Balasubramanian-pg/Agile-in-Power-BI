@@ -96,7 +96,7 @@ Each insight becomes a measurable improvement, tracked in the next sprint. Refle
 
 ## The Sprint
 
-**Purpose:** The Sprint is the **container of all other events** — a time-boxed cycle where ideas become increments.
+**Purpose:** The Sprint is the **container of all other events** - a time-boxed cycle where ideas become increments.
 
 **Fixed Duration:**
 
