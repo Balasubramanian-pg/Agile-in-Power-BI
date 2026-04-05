@@ -20,7 +20,7 @@ Every ceremony supports this cycle:
 **Sprint Reviews** measure outcomes.
 **Retrospectives** correct course.
 
-Together, they form an honest loop — a feedback engine that trades illusion for learning. The team that stops inspecting stops improving.
+Together, they form an honest loop - a feedback engine that trades illusion for learning. The team that stops inspecting stops improving.
 
 ## Time-boxing Discipline
 
