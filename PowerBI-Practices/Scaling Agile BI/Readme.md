@@ -52,7 +52,7 @@ People are not resources. They are **bearers of responsibility**. Your org desig
 - **Role of Data Product Managers in BI** is to own the *outcome*, not the output. They answer: *“Did this dashboard improve a decision?”*-not just, “Was it delivered?”  
 - **Cross-functional BI squads** are the atomic unit of delivery. When engineers, analysts, and testers share a mission, quality becomes everyone’s job-not an afterthought.  
 - **BI guild structure** scales expertise without centralizing control. It allows DAX masters to mentor across teams, while squads retain autonomy.  
-- **Scrum of Scrums in analytics programs** is the nervous system of large initiatives. It ensures that 10 teams move in concert—not in cacophony.  
+- **Scrum of Scrums in analytics programs** is the nervous system of large initiatives. It ensures that 10 teams move in concert-not in cacophony.  
 
 ### **5. Strategy and Alignment: The Burden of Meaning**  
 
