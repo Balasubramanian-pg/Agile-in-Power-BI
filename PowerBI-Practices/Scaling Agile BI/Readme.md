@@ -5,7 +5,7 @@ Before you lies not a menu of technical options, nor a checklist for compliance 
 
 Scaling Agile Business Intelligence is not an engineering problem. It is a **profound test of character**. It demands that you confront chaos not with panic, but with structure; not with shortcuts, but with stewardship. Every topic here answers a single, urgent question: *How do you expand the reach of insight without diluting its integrity?*  
 
-Because make no mistake: **scale amplifies everything**. It magnifies good design into institutional advantage-and bad design into systemic catastrophe. A single flawed measure in a team dashboard is a nuisance. That same measure, embedded in an enterprise semantic model used by 500 executives, becomes a vector of strategic delusion. Speed without governance is not agility—it is *organized recklessness*.  
+Because make no mistake: **scale amplifies everything**. It magnifies good design into institutional advantage-and bad design into systemic catastrophe. A single flawed measure in a team dashboard is a nuisance. That same measure, embedded in an enterprise semantic model used by 500 executives, becomes a vector of strategic delusion. Speed without governance is not agility-it is *organized recklessness*.  
 
 Let us now walk through the five pillars of responsible scale—not as abstract categories, but as **ethical imperatives**.
 
