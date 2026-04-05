@@ -34,7 +34,7 @@ A dashboard is ephemeral. A **semantic model** is legacy. Build carelessly, and 
 
 ### **3. Process and Delivery: The Rituals of Coordinated Truth**  
 
-Agile without rhythm is chaos. Process is not red tape—it is the **scaffolding that allows complex teams to move as one**.  
+Agile without rhythm is chaos. Process is not red tape-it is the **scaffolding that allows complex teams to move as one**.  
 
 - **Agile backlog management for BI teams** forces prioritization by *outcome*, not volume. It asks: *“Which insight, if delivered, would change the course of the business?”*  
 - **Designing value streams for analytics** reveals the hidden cost of handoffs, waits, and rework. It demands you optimize the *entire flow*—from question to decision—not just your local task.  
