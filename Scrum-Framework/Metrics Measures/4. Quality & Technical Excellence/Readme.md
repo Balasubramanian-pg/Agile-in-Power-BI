@@ -358,6 +358,6 @@ Improvement requires discernment.
 Quality and technical excellence in Power BI are disciplines rooted in responsibility.
 They demand clarity, rigor, and the willingness to confront complexity with honesty.
 When upheld consistently, these disciplines transform analytics into a stable, trustworthy foundation for decision-making.
-The pursuit of excellence is not ornamental—it is the safeguard that keeps insight aligned with truth.
+The pursuit of excellence is not ornamental-it is the safeguard that keeps insight aligned with truth.
 
 </details>
