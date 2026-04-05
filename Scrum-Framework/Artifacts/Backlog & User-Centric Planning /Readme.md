@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Every Agile team must learn to listen — not just to users, but to reality itself. The backlog is not a wish list. It is a ledger of intent, structured so that chaos has somewhere to go. When managed correctly, it reflects both what must be done and what should be ignored.
+Every Agile team must learn to listen - not just to users, but to reality itself. The backlog is not a wish list. It is a ledger of intent, structured so that chaos has somewhere to go. When managed correctly, it reflects both what must be done and what should be ignored.
 
 Planning is not about predicting the future; it is about preparing to respond well when it arrives.
 
