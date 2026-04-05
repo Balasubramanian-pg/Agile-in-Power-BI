@@ -3,7 +3,7 @@
 ## Introduction
 
 Every Agile team starts with energy. Over time, that energy risks hardening into habit.
-What began as a living rhythm — inspect, adapt, deliver — can decay into empty ceremony. The surface remains, but the spirit dies. This is how process replaces purpose.
+What began as a living rhythm - inspect, adapt, deliver — can decay into empty ceremony. The surface remains, but the spirit dies. This is how process replaces purpose.
 
 Agile without reflection becomes performance. You must guard against that.
 
