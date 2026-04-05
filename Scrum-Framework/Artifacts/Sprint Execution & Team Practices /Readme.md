@@ -19,7 +19,7 @@ Planning is not about guessing capacity. It is about aligning conviction with ca
 
 The **Sprint Goal** is the **north star** of the iteration. It transforms a list of tasks into a shared mission.
 
-Its purpose is simple — when decisions must be made mid-sprint, the Sprint Goal answers them.
+Its purpose is simple - when decisions must be made mid-sprint, the Sprint Goal answers them.
 It reminds the team that velocity is not the point; **value is**.
 
 A strong goal is concise and outcome-focused:
